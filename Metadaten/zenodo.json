@@ -1,6 +1,6 @@
 {
-  "title": "COVID-19-Todesfaelle in Deutschland",
-  "description": "",
+  "title": "COVID-19-Todesfälle in Deutschland",
+  "description": "Im Datensatz 'COVID-19-Todesfälle in Deutschland' werden die Todesfälle in Bezug auf COVID-19 in Deutschland bereitgestellt. Darüber hinaus wird neben der Anzahl der übermittelten Todesfälle der Fall-Verstorbenen-Anteil berechnet.<br> Angaben zum Tod zählen zu den melde- und übermittlungspflichtigen Inhalten. Bei der Ermittlung von Todesfällen und der Bewertung der entsprechenden Informationen in den Gesundheitsämtern unterschiedlich vorgegangen. In der Folge könnte es einerseits zu einer Unterschätzung der Anzahl der Todesfälle, andererseits zu einer Überschätzung des Anteils der Verstorbenen einer Infektionskrankheit kommen. Ausführlich Hinweise zur Datenerhebung und Interpretation können der Datensatzdokumentation entnommen werden.",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "cc-by",
@@ -16,9 +16,30 @@
       "affiliation": "Robert Koch-Institut"
     }
   ],
+ "contributors": [
+    {
+      "name": "Diercke, Michaela",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-4678-1813",
+      "type": "ProjectLeader"
+    },
+    {
+      "name": "Ullrich, Alexander",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-4894-6124",
+      "type": "DataManager"
+    },
+    {
+      "name": "Wuensche, Hannes",
+      "affiliation": "Robert Koch-Institut",
+      "orcid": "0000-0002-8837-0326",
+      "type": "DataCurator"
+    }
+  ],
   "keywords": [
     "COVID-19",
     "SARS-CoV-2",
+	"Todesfaelle",
     "Deutschland",
     "Germany",
     "Open Data",
