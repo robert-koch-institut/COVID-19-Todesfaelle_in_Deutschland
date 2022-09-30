@@ -6,7 +6,7 @@ on:
       - '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]_pre'
   
 env:
-  zenodo_deposition_id: 
+  zenodo_deposition_id: 7127832
   zenodo_server: 'https://zenodo.org'
   zenodo_json: Metadaten/zenodo.json
   whitelist_replace_doi: .github/workflows/OpenData_ListReplaceDoi
