@@ -13,7 +13,7 @@ Seestraße 10
 **Fachgebiet MF4 | Informations- und Forschungsdatenmanagment**  
 [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)   
 
-Robert Koch-Institut (2022): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7395362](https://doi.org/10.5281/zenodo.7395362)
+Robert Koch-Institut (2022): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7397218](https://doi.org/10.5281/zenodo.7397218)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
