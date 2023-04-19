@@ -11,9 +11,12 @@ Seestraße 10
 [Michaela Diercke](https://orcid.org/0000-0002-4678-1813) (Projektleitung)  
 
 **Fachgebiet MF4 | Informations- und Forschungsdatenmanagment**  
-[Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)   
+[Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)
 
-Robert Koch-Institut (2023): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7839432](https://doi.org/10.5281/zenodo.7839432)
+---
+
+**Zitieren**
+Robert Koch-Institut (2023): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.7844425](https://doi.org/10.5281/zenodo.7844425)
 
 
 ## Informationen zum Datensatz und Entstehungskontext

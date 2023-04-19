@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+type: dataset
+title: COVID-19-Todesfälle in Deutschland
+abstract: >-
+  Im Datensatz 'COVID-19-Todesfälle in Deutschland' werden die Todesfälle in
+  Bezug auf COVID-19 in Deutschland bereitgestellt. Darüber hinaus wird neben
+  der Anzahl der übermittelten Todesfälle der Fall-Verstorbenen-Anteil
+  berechnet.
+
+  Angaben zum Tod zählen zu den melde- und übermittlungspflichtigen Inhalten.
+  Bei der Ermittlung von Todesfällen und der Bewertung der entsprechenden
+  Informationen in den Gesundheitsämtern unterschiedlich vorgegangen. In der
+  Folge könnte es einerseits zu einer Unterschätzung der Anzahl der Todesfälle,
+  andererseits zu einer Überschätzung des Anteils der Verstorbenen einer
+  Infektionskrankheit kommen. Ausführlich Hinweise zur Datenerhebung und
+  Interpretation können der Datensatzdokumentation entnommen werden.
+date-released: '2023-04-19'
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - Todesfaelle
+  - Deutschland
+  - Germany
+  - Open Data
+  - RKI
+  - Gesundheitsberichterstattung
+  - Epidemiologie
+  - Public health surveillance
+  - Epidemiology
+message: Cite me!
+url: https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland/
+license: CC-BY-4.0
+doi: 10.5281/zenodo.7844425
+authors:
+  - name: Robert Koch-Institut
