@@ -1059,7 +1059,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W24,Hamburg,02,7,1584
 2021-W24,Niedersachsen,03,29,5721
 2021-W24,Bremen,04,5,482
-2021-W24,Nordrhein-Westfalen,05,65,17017
+2021-W24,Nordrhein-Westfalen,05,64,17016
 2021-W24,Hessen,06,31,7439
 2021-W24,Rheinland-Pfalz,07,86,3843
 2021-W24,Baden-Württemberg,08,83,10127
@@ -1075,7 +1075,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W25,Hamburg,02,3,1587
 2021-W25,Niedersachsen,03,28,5749
 2021-W25,Bremen,04,0,482
-2021-W25,Nordrhein-Westfalen,05,70,17087
+2021-W25,Nordrhein-Westfalen,05,70,17086
 2021-W25,Hessen,06,34,7473
 2021-W25,Rheinland-Pfalz,07,13,3856
 2021-W25,Baden-Württemberg,08,63,10190
@@ -1091,7 +1091,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W26,Hamburg,02,7,1594
 2021-W26,Niedersachsen,03,12,5761
 2021-W26,Bremen,04,5,487
-2021-W26,Nordrhein-Westfalen,05,53,17140
+2021-W26,Nordrhein-Westfalen,05,53,17139
 2021-W26,Hessen,06,38,7511
 2021-W26,Rheinland-Pfalz,07,11,3867
 2021-W26,Baden-Württemberg,08,56,10246
@@ -1107,7 +1107,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W27,Hamburg,02,5,1599
 2021-W27,Niedersachsen,03,31,5792
 2021-W27,Bremen,04,0,487
-2021-W27,Nordrhein-Westfalen,05,40,17180
+2021-W27,Nordrhein-Westfalen,05,40,17179
 2021-W27,Hessen,06,13,7524
 2021-W27,Rheinland-Pfalz,07,2,3869
 2021-W27,Baden-Württemberg,08,40,10286
@@ -1123,7 +1123,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W28,Hamburg,02,3,1602
 2021-W28,Niedersachsen,03,6,5798
 2021-W28,Bremen,04,1,488
-2021-W28,Nordrhein-Westfalen,05,38,17218
+2021-W28,Nordrhein-Westfalen,05,38,17217
 2021-W28,Hessen,06,9,7533
 2021-W28,Rheinland-Pfalz,07,1,3870
 2021-W28,Baden-Württemberg,08,25,10311
@@ -1139,7 +1139,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W29,Hamburg,02,2,1604
 2021-W29,Niedersachsen,03,4,5802
 2021-W29,Bremen,04,4,492
-2021-W29,Nordrhein-Westfalen,05,34,17252
+2021-W29,Nordrhein-Westfalen,05,34,17251
 2021-W29,Hessen,06,12,7545
 2021-W29,Rheinland-Pfalz,07,7,3877
 2021-W29,Baden-Württemberg,08,38,10349
@@ -1155,7 +1155,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W30,Hamburg,02,8,1612
 2021-W30,Niedersachsen,03,9,5811
 2021-W30,Bremen,04,0,492
-2021-W30,Nordrhein-Westfalen,05,18,17270
+2021-W30,Nordrhein-Westfalen,05,18,17269
 2021-W30,Hessen,06,13,7558
 2021-W30,Rheinland-Pfalz,07,3,3880
 2021-W30,Baden-Württemberg,08,18,10367
@@ -1171,7 +1171,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W31,Hamburg,02,11,1623
 2021-W31,Niedersachsen,03,2,5813
 2021-W31,Bremen,04,0,492
-2021-W31,Nordrhein-Westfalen,05,12,17282
+2021-W31,Nordrhein-Westfalen,05,12,17281
 2021-W31,Hessen,06,7,7565
 2021-W31,Rheinland-Pfalz,07,4,3884
 2021-W31,Baden-Württemberg,08,33,10400
@@ -1187,7 +1187,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W32,Hamburg,02,8,1631
 2021-W32,Niedersachsen,03,8,5821
 2021-W32,Bremen,04,1,493
-2021-W32,Nordrhein-Westfalen,05,15,17297
+2021-W32,Nordrhein-Westfalen,05,15,17296
 2021-W32,Hessen,06,17,7582
 2021-W32,Rheinland-Pfalz,07,5,3889
 2021-W32,Baden-Württemberg,08,5,10405
@@ -1203,7 +1203,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W33,Hamburg,02,2,1633
 2021-W33,Niedersachsen,03,8,5829
 2021-W33,Bremen,04,3,496
-2021-W33,Nordrhein-Westfalen,05,39,17336
+2021-W33,Nordrhein-Westfalen,05,39,17335
 2021-W33,Hessen,06,14,7596
 2021-W33,Rheinland-Pfalz,07,4,3893
 2021-W33,Baden-Württemberg,08,9,10414
@@ -1219,7 +1219,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W34,Hamburg,02,6,1639
 2021-W34,Niedersachsen,03,12,5841
 2021-W34,Bremen,04,2,498
-2021-W34,Nordrhein-Westfalen,05,42,17378
+2021-W34,Nordrhein-Westfalen,05,42,17377
 2021-W34,Hessen,06,13,7609
 2021-W34,Rheinland-Pfalz,07,5,3898
 2021-W34,Baden-Württemberg,08,26,10440
@@ -1235,7 +1235,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W35,Hamburg,02,13,1652
 2021-W35,Niedersachsen,03,12,5853
 2021-W35,Bremen,04,1,499
-2021-W35,Nordrhein-Westfalen,05,61,17439
+2021-W35,Nordrhein-Westfalen,05,61,17438
 2021-W35,Hessen,06,12,7621
 2021-W35,Rheinland-Pfalz,07,10,3908
 2021-W35,Baden-Württemberg,08,37,10477
@@ -1251,7 +1251,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W36,Hamburg,02,5,1657
 2021-W36,Niedersachsen,03,16,5869
 2021-W36,Bremen,04,2,501
-2021-W36,Nordrhein-Westfalen,05,88,17527
+2021-W36,Nordrhein-Westfalen,05,88,17526
 2021-W36,Hessen,06,24,7645
 2021-W36,Rheinland-Pfalz,07,15,3923
 2021-W36,Baden-Württemberg,08,34,10511
@@ -1267,7 +1267,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W37,Hamburg,02,32,1689
 2021-W37,Niedersachsen,03,33,5902
 2021-W37,Bremen,04,4,505
-2021-W37,Nordrhein-Westfalen,05,89,17616
+2021-W37,Nordrhein-Westfalen,05,89,17615
 2021-W37,Hessen,06,32,7677
 2021-W37,Rheinland-Pfalz,07,11,3934
 2021-W37,Baden-Württemberg,08,65,10576
@@ -1283,7 +1283,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W38,Hamburg,02,28,1717
 2021-W38,Niedersachsen,03,29,5931
 2021-W38,Bremen,04,1,506
-2021-W38,Nordrhein-Westfalen,05,105,17721
+2021-W38,Nordrhein-Westfalen,05,105,17720
 2021-W38,Hessen,06,26,7703
 2021-W38,Rheinland-Pfalz,07,20,3954
 2021-W38,Baden-Württemberg,08,40,10616
@@ -1299,7 +1299,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W39,Hamburg,02,22,1739
 2021-W39,Niedersachsen,03,25,5956
 2021-W39,Bremen,04,4,510
-2021-W39,Nordrhein-Westfalen,05,107,17828
+2021-W39,Nordrhein-Westfalen,05,107,17827
 2021-W39,Hessen,06,33,7736
 2021-W39,Rheinland-Pfalz,07,21,3975
 2021-W39,Baden-Württemberg,08,46,10662
@@ -1315,7 +1315,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W40,Hamburg,02,13,1752
 2021-W40,Niedersachsen,03,37,5993
 2021-W40,Bremen,04,8,518
-2021-W40,Nordrhein-Westfalen,05,73,17901
+2021-W40,Nordrhein-Westfalen,05,73,17900
 2021-W40,Hessen,06,28,7764
 2021-W40,Rheinland-Pfalz,07,18,3993
 2021-W40,Baden-Württemberg,08,68,10730
@@ -1331,7 +1331,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W41,Hamburg,02,9,1761
 2021-W41,Niedersachsen,03,28,6021
 2021-W41,Bremen,04,4,522
-2021-W41,Nordrhein-Westfalen,05,94,17995
+2021-W41,Nordrhein-Westfalen,05,94,17994
 2021-W41,Hessen,06,20,7784
 2021-W41,Rheinland-Pfalz,07,24,4017
 2021-W41,Baden-Württemberg,08,67,10797
@@ -1347,7 +1347,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W42,Hamburg,02,24,1785
 2021-W42,Niedersachsen,03,32,6053
 2021-W42,Bremen,04,5,527
-2021-W42,Nordrhein-Westfalen,05,92,18087
+2021-W42,Nordrhein-Westfalen,05,92,18086
 2021-W42,Hessen,06,23,7807
 2021-W42,Rheinland-Pfalz,07,20,4037
 2021-W42,Baden-Württemberg,08,58,10855
@@ -1363,7 +1363,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W43,Hamburg,02,34,1819
 2021-W43,Niedersachsen,03,22,6075
 2021-W43,Bremen,04,3,530
-2021-W43,Nordrhein-Westfalen,05,99,18186
+2021-W43,Nordrhein-Westfalen,05,99,18185
 2021-W43,Hessen,06,32,7839
 2021-W43,Rheinland-Pfalz,07,30,4067
 2021-W43,Baden-Württemberg,08,109,10964
@@ -1379,7 +1379,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W44,Hamburg,02,16,1835
 2021-W44,Niedersachsen,03,31,6106
 2021-W44,Bremen,04,4,534
-2021-W44,Nordrhein-Westfalen,05,124,18310
+2021-W44,Nordrhein-Westfalen,05,124,18309
 2021-W44,Hessen,06,48,7887
 2021-W44,Rheinland-Pfalz,07,31,4098
 2021-W44,Baden-Württemberg,08,102,11066
@@ -1395,7 +1395,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W45,Hamburg,02,9,1844
 2021-W45,Niedersachsen,03,55,6161
 2021-W45,Bremen,04,2,536
-2021-W45,Nordrhein-Westfalen,05,149,18459
+2021-W45,Nordrhein-Westfalen,05,149,18458
 2021-W45,Hessen,06,72,7959
 2021-W45,Rheinland-Pfalz,07,45,4143
 2021-W45,Baden-Württemberg,08,154,11220
@@ -1411,7 +1411,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W46,Hamburg,02,22,1866
 2021-W46,Niedersachsen,03,69,6230
 2021-W46,Bremen,04,5,541
-2021-W46,Nordrhein-Westfalen,05,183,18642
+2021-W46,Nordrhein-Westfalen,05,183,18641
 2021-W46,Hessen,06,67,8026
 2021-W46,Rheinland-Pfalz,07,46,4189
 2021-W46,Baden-Württemberg,08,198,11418
@@ -1427,7 +1427,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W47,Hamburg,02,19,1885
 2021-W47,Niedersachsen,03,89,6319
 2021-W47,Bremen,04,6,547
-2021-W47,Nordrhein-Westfalen,05,224,18866
+2021-W47,Nordrhein-Westfalen,05,224,18865
 2021-W47,Hessen,06,80,8106
 2021-W47,Rheinland-Pfalz,07,46,4235
 2021-W47,Baden-Württemberg,08,234,11652
@@ -1443,7 +1443,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W48,Hamburg,02,15,1900
 2021-W48,Niedersachsen,03,103,6422
 2021-W48,Bremen,04,8,555
-2021-W48,Nordrhein-Westfalen,05,300,19166
+2021-W48,Nordrhein-Westfalen,05,300,19165
 2021-W48,Hessen,06,86,8192
 2021-W48,Rheinland-Pfalz,07,61,4296
 2021-W48,Baden-Württemberg,08,262,11914
@@ -1459,7 +1459,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W49,Hamburg,02,22,1922
 2021-W49,Niedersachsen,03,128,6550
 2021-W49,Bremen,04,10,565
-2021-W49,Nordrhein-Westfalen,05,292,19458
+2021-W49,Nordrhein-Westfalen,05,292,19457
 2021-W49,Hessen,06,105,8297
 2021-W49,Rheinland-Pfalz,07,87,4383
 2021-W49,Baden-Württemberg,08,314,12228
@@ -1475,7 +1475,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W50,Hamburg,02,29,1951
 2021-W50,Niedersachsen,03,128,6678
 2021-W50,Bremen,04,10,575
-2021-W50,Nordrhein-Westfalen,05,333,19791
+2021-W50,Nordrhein-Westfalen,05,333,19790
 2021-W50,Hessen,06,91,8388
 2021-W50,Rheinland-Pfalz,07,78,4461
 2021-W50,Baden-Württemberg,08,297,12525
@@ -1491,7 +1491,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W51,Hamburg,02,16,1967
 2021-W51,Niedersachsen,03,79,6757
 2021-W51,Bremen,04,14,589
-2021-W51,Nordrhein-Westfalen,05,280,20071
+2021-W51,Nordrhein-Westfalen,05,280,20070
 2021-W51,Hessen,06,95,8483
 2021-W51,Rheinland-Pfalz,07,86,4547
 2021-W51,Baden-Württemberg,08,222,12747
@@ -1507,7 +1507,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2021-W52,Hamburg,02,25,1992
 2021-W52,Niedersachsen,03,66,6823
 2021-W52,Bremen,04,11,600
-2021-W52,Nordrhein-Westfalen,05,244,20315
+2021-W52,Nordrhein-Westfalen,05,244,20314
 2021-W52,Hessen,06,63,8546
 2021-W52,Rheinland-Pfalz,07,66,4613
 2021-W52,Baden-Württemberg,08,236,12983
@@ -1523,7 +1523,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W01,Hamburg,02,32,2024
 2022-W01,Niedersachsen,03,88,6911
 2022-W01,Bremen,04,13,613
-2022-W01,Nordrhein-Westfalen,05,226,20541
+2022-W01,Nordrhein-Westfalen,05,226,20540
 2022-W01,Hessen,06,54,8600
 2022-W01,Rheinland-Pfalz,07,61,4674
 2022-W01,Baden-Württemberg,08,190,13173
@@ -1539,7 +1539,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W02,Hamburg,02,18,2042
 2022-W02,Niedersachsen,03,75,6986
 2022-W02,Bremen,04,7,620
-2022-W02,Nordrhein-Westfalen,05,165,20706
+2022-W02,Nordrhein-Westfalen,05,165,20705
 2022-W02,Hessen,06,52,8652
 2022-W02,Rheinland-Pfalz,07,35,4709
 2022-W02,Baden-Württemberg,08,213,13386
@@ -1555,7 +1555,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W03,Hamburg,02,25,2067
 2022-W03,Niedersachsen,03,55,7041
 2022-W03,Bremen,04,11,631
-2022-W03,Nordrhein-Westfalen,05,150,20856
+2022-W03,Nordrhein-Westfalen,05,150,20855
 2022-W03,Hessen,06,46,8698
 2022-W03,Rheinland-Pfalz,07,33,4742
 2022-W03,Baden-Württemberg,08,102,13488
@@ -1571,7 +1571,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W04,Hamburg,02,53,2120
 2022-W04,Niedersachsen,03,39,7080
 2022-W04,Bremen,04,17,648
-2022-W04,Nordrhein-Westfalen,05,192,21048
+2022-W04,Nordrhein-Westfalen,05,192,21047
 2022-W04,Hessen,06,71,8769
 2022-W04,Rheinland-Pfalz,07,34,4776
 2022-W04,Baden-Württemberg,08,124,13612
@@ -1587,7 +1587,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W05,Hamburg,02,41,2161
 2022-W05,Niedersachsen,03,53,7133
 2022-W05,Bremen,04,4,652
-2022-W05,Nordrhein-Westfalen,05,179,21227
+2022-W05,Nordrhein-Westfalen,05,179,21226
 2022-W05,Hessen,06,84,8853
 2022-W05,Rheinland-Pfalz,07,28,4804
 2022-W05,Baden-Württemberg,08,118,13730
@@ -1603,7 +1603,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W06,Hamburg,02,39,2200
 2022-W06,Niedersachsen,03,89,7222
 2022-W06,Bremen,04,10,662
-2022-W06,Nordrhein-Westfalen,05,248,21475
+2022-W06,Nordrhein-Westfalen,05,248,21474
 2022-W06,Hessen,06,99,8952
 2022-W06,Rheinland-Pfalz,07,40,4844
 2022-W06,Baden-Württemberg,08,125,13855
@@ -1619,7 +1619,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W07,Hamburg,02,60,2260
 2022-W07,Niedersachsen,03,99,7321
 2022-W07,Bremen,04,10,672
-2022-W07,Nordrhein-Westfalen,05,354,21829
+2022-W07,Nordrhein-Westfalen,05,354,21828
 2022-W07,Hessen,06,100,9052
 2022-W07,Rheinland-Pfalz,07,57,4901
 2022-W07,Baden-Württemberg,08,159,14014
@@ -1635,7 +1635,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W08,Hamburg,02,25,2285
 2022-W08,Niedersachsen,03,122,7443
 2022-W08,Bremen,04,7,679
-2022-W08,Nordrhein-Westfalen,05,335,22164
+2022-W08,Nordrhein-Westfalen,05,335,22163
 2022-W08,Hessen,06,99,9151
 2022-W08,Rheinland-Pfalz,07,59,4960
 2022-W08,Baden-Württemberg,08,182,14196
@@ -1651,7 +1651,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W09,Hamburg,02,27,2312
 2022-W09,Niedersachsen,03,138,7581
 2022-W09,Bremen,04,7,686
-2022-W09,Nordrhein-Westfalen,05,319,22483
+2022-W09,Nordrhein-Westfalen,05,319,22482
 2022-W09,Hessen,06,92,9243
 2022-W09,Rheinland-Pfalz,07,62,5022
 2022-W09,Baden-Württemberg,08,180,14376
@@ -1667,7 +1667,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W10,Hamburg,02,23,2335
 2022-W10,Niedersachsen,03,101,7682
 2022-W10,Bremen,04,7,693
-2022-W10,Nordrhein-Westfalen,05,271,22754
+2022-W10,Nordrhein-Westfalen,05,271,22753
 2022-W10,Hessen,06,98,9341
 2022-W10,Rheinland-Pfalz,07,55,5077
 2022-W10,Baden-Württemberg,08,222,14598
@@ -1683,7 +1683,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W11,Hamburg,02,9,2344
 2022-W11,Niedersachsen,03,111,7793
 2022-W11,Bremen,04,11,704
-2022-W11,Nordrhein-Westfalen,05,326,23080
+2022-W11,Nordrhein-Westfalen,05,325,23078
 2022-W11,Hessen,06,116,9457
 2022-W11,Rheinland-Pfalz,07,47,5124
 2022-W11,Baden-Württemberg,08,139,14737
@@ -1699,7 +1699,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W12,Hamburg,02,23,2367
 2022-W12,Niedersachsen,03,158,7951
 2022-W12,Bremen,04,6,710
-2022-W12,Nordrhein-Westfalen,05,308,23388
+2022-W12,Nordrhein-Westfalen,05,308,23386
 2022-W12,Hessen,06,69,9526
 2022-W12,Rheinland-Pfalz,07,73,5197
 2022-W12,Baden-Württemberg,08,169,14906
@@ -1715,7 +1715,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W13,Hamburg,02,23,2390
 2022-W13,Niedersachsen,03,168,8119
 2022-W13,Bremen,04,5,715
-2022-W13,Nordrhein-Westfalen,05,325,23713
+2022-W13,Nordrhein-Westfalen,05,325,23711
 2022-W13,Hessen,06,85,9611
 2022-W13,Rheinland-Pfalz,07,54,5251
 2022-W13,Baden-Württemberg,08,187,15093
@@ -1731,7 +1731,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W14,Hamburg,02,41,2431
 2022-W14,Niedersachsen,03,190,8309
 2022-W14,Bremen,04,10,725
-2022-W14,Nordrhein-Westfalen,05,265,23978
+2022-W14,Nordrhein-Westfalen,05,265,23976
 2022-W14,Hessen,06,69,9680
 2022-W14,Rheinland-Pfalz,07,73,5324
 2022-W14,Baden-Württemberg,08,224,15317
@@ -1747,7 +1747,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W15,Hamburg,02,42,2473
 2022-W15,Niedersachsen,03,149,8458
 2022-W15,Bremen,04,9,734
-2022-W15,Nordrhein-Westfalen,05,250,24228
+2022-W15,Nordrhein-Westfalen,05,250,24226
 2022-W15,Hessen,06,62,9742
 2022-W15,Rheinland-Pfalz,07,68,5392
 2022-W15,Baden-Württemberg,08,143,15460
@@ -1763,7 +1763,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W16,Hamburg,02,24,2497
 2022-W16,Niedersachsen,03,102,8560
 2022-W16,Bremen,04,8,742
-2022-W16,Nordrhein-Westfalen,05,213,24441
+2022-W16,Nordrhein-Westfalen,05,213,24439
 2022-W16,Hessen,06,78,9820
 2022-W16,Rheinland-Pfalz,07,43,5435
 2022-W16,Baden-Württemberg,08,131,15591
@@ -1779,7 +1779,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W17,Hamburg,02,26,2523
 2022-W17,Niedersachsen,03,188,8748
 2022-W17,Bremen,04,10,752
-2022-W17,Nordrhein-Westfalen,05,258,24699
+2022-W17,Nordrhein-Westfalen,05,258,24697
 2022-W17,Hessen,06,72,9892
 2022-W17,Rheinland-Pfalz,07,57,5492
 2022-W17,Baden-Württemberg,08,115,15706
@@ -1795,7 +1795,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W18,Hamburg,02,49,2572
 2022-W18,Niedersachsen,03,170,8918
 2022-W18,Bremen,04,12,764
-2022-W18,Nordrhein-Westfalen,05,182,24881
+2022-W18,Nordrhein-Westfalen,05,182,24879
 2022-W18,Hessen,06,79,9971
 2022-W18,Rheinland-Pfalz,07,48,5540
 2022-W18,Baden-Württemberg,08,113,15819
@@ -1811,7 +1811,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W19,Hamburg,02,45,2617
 2022-W19,Niedersachsen,03,145,9063
 2022-W19,Bremen,04,2,766
-2022-W19,Nordrhein-Westfalen,05,178,25059
+2022-W19,Nordrhein-Westfalen,05,178,25057
 2022-W19,Hessen,06,47,10018
 2022-W19,Rheinland-Pfalz,07,37,5577
 2022-W19,Baden-Württemberg,08,88,15907
@@ -1827,7 +1827,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W20,Hamburg,02,20,2637
 2022-W20,Niedersachsen,03,147,9210
 2022-W20,Bremen,04,5,771
-2022-W20,Nordrhein-Westfalen,05,153,25212
+2022-W20,Nordrhein-Westfalen,05,153,25210
 2022-W20,Hessen,06,31,10049
 2022-W20,Rheinland-Pfalz,07,52,5629
 2022-W20,Baden-Württemberg,08,79,15986
@@ -1843,7 +1843,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W21,Hamburg,02,6,2643
 2022-W21,Niedersachsen,03,61,9271
 2022-W21,Bremen,04,2,773
-2022-W21,Nordrhein-Westfalen,05,110,25322
+2022-W21,Nordrhein-Westfalen,05,110,25320
 2022-W21,Hessen,06,49,10098
 2022-W21,Rheinland-Pfalz,07,26,5655
 2022-W21,Baden-Württemberg,08,72,16058
@@ -1859,7 +1859,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W22,Hamburg,02,12,2655
 2022-W22,Niedersachsen,03,105,9376
 2022-W22,Bremen,04,4,777
-2022-W22,Nordrhein-Westfalen,05,90,25412
+2022-W22,Nordrhein-Westfalen,05,90,25410
 2022-W22,Hessen,06,61,10159
 2022-W22,Rheinland-Pfalz,07,12,5667
 2022-W22,Baden-Württemberg,08,40,16098
@@ -1875,7 +1875,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W23,Hamburg,02,21,2676
 2022-W23,Niedersachsen,03,56,9432
 2022-W23,Bremen,04,2,779
-2022-W23,Nordrhein-Westfalen,05,56,25468
+2022-W23,Nordrhein-Westfalen,05,56,25466
 2022-W23,Hessen,06,44,10203
 2022-W23,Rheinland-Pfalz,07,9,5676
 2022-W23,Baden-Württemberg,08,44,16142
@@ -1891,7 +1891,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W24,Hamburg,02,15,2691
 2022-W24,Niedersachsen,03,54,9486
 2022-W24,Bremen,04,2,781
-2022-W24,Nordrhein-Westfalen,05,65,25533
+2022-W24,Nordrhein-Westfalen,05,65,25531
 2022-W24,Hessen,06,35,10238
 2022-W24,Rheinland-Pfalz,07,23,5699
 2022-W24,Baden-Württemberg,08,40,16182
@@ -1907,7 +1907,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W25,Hamburg,02,22,2713
 2022-W25,Niedersachsen,03,123,9609
 2022-W25,Bremen,04,5,786
-2022-W25,Nordrhein-Westfalen,05,105,25638
+2022-W25,Nordrhein-Westfalen,05,105,25636
 2022-W25,Hessen,06,65,10303
 2022-W25,Rheinland-Pfalz,07,21,5720
 2022-W25,Baden-Württemberg,08,47,16229
@@ -1923,7 +1923,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W26,Hamburg,02,11,2724
 2022-W26,Niedersachsen,03,82,9691
 2022-W26,Bremen,04,8,794
-2022-W26,Nordrhein-Westfalen,05,79,25717
+2022-W26,Nordrhein-Westfalen,05,79,25715
 2022-W26,Hessen,06,64,10367
 2022-W26,Rheinland-Pfalz,07,19,5739
 2022-W26,Baden-Württemberg,08,85,16314
@@ -1939,7 +1939,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W27,Hamburg,02,18,2742
 2022-W27,Niedersachsen,03,74,9765
 2022-W27,Bremen,04,4,798
-2022-W27,Nordrhein-Westfalen,05,113,25830
+2022-W27,Nordrhein-Westfalen,05,113,25828
 2022-W27,Hessen,06,65,10432
 2022-W27,Rheinland-Pfalz,07,24,5763
 2022-W27,Baden-Württemberg,08,54,16368
@@ -1955,7 +1955,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W28,Hamburg,02,13,2755
 2022-W28,Niedersachsen,03,80,9845
 2022-W28,Bremen,04,4,802
-2022-W28,Nordrhein-Westfalen,05,155,25985
+2022-W28,Nordrhein-Westfalen,05,155,25983
 2022-W28,Hessen,06,78,10510
 2022-W28,Rheinland-Pfalz,07,58,5821
 2022-W28,Baden-Württemberg,08,65,16433
@@ -1971,7 +1971,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W29,Hamburg,02,34,2789
 2022-W29,Niedersachsen,03,65,9910
 2022-W29,Bremen,04,3,805
-2022-W29,Nordrhein-Westfalen,05,166,26151
+2022-W29,Nordrhein-Westfalen,05,166,26149
 2022-W29,Hessen,06,40,10550
 2022-W29,Rheinland-Pfalz,07,35,5856
 2022-W29,Baden-Württemberg,08,50,16483
@@ -1987,7 +1987,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W30,Hamburg,02,36,2825
 2022-W30,Niedersachsen,03,86,9996
 2022-W30,Bremen,04,8,813
-2022-W30,Nordrhein-Westfalen,05,178,26329
+2022-W30,Nordrhein-Westfalen,05,178,26327
 2022-W30,Hessen,06,48,10598
 2022-W30,Rheinland-Pfalz,07,37,5893
 2022-W30,Baden-Württemberg,08,94,16577
@@ -2003,7 +2003,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W31,Hamburg,02,26,2851
 2022-W31,Niedersachsen,03,107,10103
 2022-W31,Bremen,04,1,814
-2022-W31,Nordrhein-Westfalen,05,177,26506
+2022-W31,Nordrhein-Westfalen,05,177,26504
 2022-W31,Hessen,06,96,10694
 2022-W31,Rheinland-Pfalz,07,43,5936
 2022-W31,Baden-Württemberg,08,93,16670
@@ -2019,7 +2019,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W32,Hamburg,02,42,2893
 2022-W32,Niedersachsen,03,127,10230
 2022-W32,Bremen,04,5,819
-2022-W32,Nordrhein-Westfalen,05,150,26656
+2022-W32,Nordrhein-Westfalen,05,150,26654
 2022-W32,Hessen,06,56,10750
 2022-W32,Rheinland-Pfalz,07,42,5978
 2022-W32,Baden-Württemberg,08,57,16727
@@ -2035,7 +2035,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W33,Hamburg,02,27,2920
 2022-W33,Niedersachsen,03,115,10345
 2022-W33,Bremen,04,3,822
-2022-W33,Nordrhein-Westfalen,05,152,26808
+2022-W33,Nordrhein-Westfalen,05,152,26806
 2022-W33,Hessen,06,62,10812
 2022-W33,Rheinland-Pfalz,07,33,6011
 2022-W33,Baden-Württemberg,08,104,16831
@@ -2051,7 +2051,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W34,Hamburg,02,32,2952
 2022-W34,Niedersachsen,03,84,10429
 2022-W34,Bremen,04,2,824
-2022-W34,Nordrhein-Westfalen,05,118,26926
+2022-W34,Nordrhein-Westfalen,05,118,26924
 2022-W34,Hessen,06,58,10870
 2022-W34,Rheinland-Pfalz,07,24,6035
 2022-W34,Baden-Württemberg,08,50,16881
@@ -2067,7 +2067,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W35,Hamburg,02,28,2980
 2022-W35,Niedersachsen,03,89,10518
 2022-W35,Bremen,04,4,828
-2022-W35,Nordrhein-Westfalen,05,139,27065
+2022-W35,Nordrhein-Westfalen,05,139,27063
 2022-W35,Hessen,06,41,10911
 2022-W35,Rheinland-Pfalz,07,37,6072
 2022-W35,Baden-Württemberg,08,86,16967
@@ -2083,7 +2083,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W36,Hamburg,02,28,3008
 2022-W36,Niedersachsen,03,87,10605
 2022-W36,Bremen,04,0,828
-2022-W36,Nordrhein-Westfalen,05,92,27157
+2022-W36,Nordrhein-Westfalen,05,92,27155
 2022-W36,Hessen,06,49,10960
 2022-W36,Rheinland-Pfalz,07,14,6086
 2022-W36,Baden-Württemberg,08,62,17029
@@ -2099,7 +2099,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W37,Hamburg,02,10,3018
 2022-W37,Niedersachsen,03,91,10696
 2022-W37,Bremen,04,2,830
-2022-W37,Nordrhein-Westfalen,05,77,27234
+2022-W37,Nordrhein-Westfalen,05,77,27232
 2022-W37,Hessen,06,50,11010
 2022-W37,Rheinland-Pfalz,07,28,6114
 2022-W37,Baden-Württemberg,08,153,17182
@@ -2115,7 +2115,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W38,Hamburg,02,37,3055
 2022-W38,Niedersachsen,03,54,10750
 2022-W38,Bremen,04,6,836
-2022-W38,Nordrhein-Westfalen,05,96,27330
+2022-W38,Nordrhein-Westfalen,05,96,27328
 2022-W38,Hessen,06,33,11043
 2022-W38,Rheinland-Pfalz,07,30,6144
 2022-W38,Baden-Württemberg,08,49,17231
@@ -2131,7 +2131,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W39,Hamburg,02,10,3065
 2022-W39,Niedersachsen,03,76,10826
 2022-W39,Bremen,04,3,839
-2022-W39,Nordrhein-Westfalen,05,151,27481
+2022-W39,Nordrhein-Westfalen,05,151,27479
 2022-W39,Hessen,06,38,11081
 2022-W39,Rheinland-Pfalz,07,22,6166
 2022-W39,Baden-Württemberg,08,61,17292
@@ -2147,7 +2147,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W40,Hamburg,02,8,3073
 2022-W40,Niedersachsen,03,60,10886
 2022-W40,Bremen,04,5,844
-2022-W40,Nordrhein-Westfalen,05,102,27583
+2022-W40,Nordrhein-Westfalen,05,102,27581
 2022-W40,Hessen,06,39,11120
 2022-W40,Rheinland-Pfalz,07,28,6194
 2022-W40,Baden-Württemberg,08,40,17332
@@ -2163,7 +2163,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W41,Hamburg,02,25,3098
 2022-W41,Niedersachsen,03,99,10985
 2022-W41,Bremen,04,4,848
-2022-W41,Nordrhein-Westfalen,05,137,27720
+2022-W41,Nordrhein-Westfalen,05,137,27718
 2022-W41,Hessen,06,56,11176
 2022-W41,Rheinland-Pfalz,07,48,6242
 2022-W41,Baden-Württemberg,08,105,17437
@@ -2179,7 +2179,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W42,Hamburg,02,16,3114
 2022-W42,Niedersachsen,03,128,11113
 2022-W42,Bremen,04,6,854
-2022-W42,Nordrhein-Westfalen,05,200,27920
+2022-W42,Nordrhein-Westfalen,05,200,27918
 2022-W42,Hessen,06,104,11280
 2022-W42,Rheinland-Pfalz,07,63,6305
 2022-W42,Baden-Württemberg,08,132,17569
@@ -2195,7 +2195,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W43,Hamburg,02,18,3132
 2022-W43,Niedersachsen,03,104,11217
 2022-W43,Bremen,04,9,863
-2022-W43,Nordrhein-Westfalen,05,200,28120
+2022-W43,Nordrhein-Westfalen,05,200,28118
 2022-W43,Hessen,06,93,11373
 2022-W43,Rheinland-Pfalz,07,47,6352
 2022-W43,Baden-Württemberg,08,127,17696
@@ -2211,7 +2211,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W44,Hamburg,02,34,3166
 2022-W44,Niedersachsen,03,158,11375
 2022-W44,Bremen,04,6,869
-2022-W44,Nordrhein-Westfalen,05,190,28310
+2022-W44,Nordrhein-Westfalen,05,190,28308
 2022-W44,Hessen,06,87,11460
 2022-W44,Rheinland-Pfalz,07,36,6388
 2022-W44,Baden-Württemberg,08,90,17786
@@ -2227,7 +2227,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W45,Hamburg,02,36,3202
 2022-W45,Niedersachsen,03,108,11483
 2022-W45,Bremen,04,9,878
-2022-W45,Nordrhein-Westfalen,05,198,28508
+2022-W45,Nordrhein-Westfalen,05,198,28506
 2022-W45,Hessen,06,51,11511
 2022-W45,Rheinland-Pfalz,07,54,6442
 2022-W45,Baden-Württemberg,08,138,17924
@@ -2243,7 +2243,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W46,Hamburg,02,17,3219
 2022-W46,Niedersachsen,03,138,11621
 2022-W46,Bremen,04,2,880
-2022-W46,Nordrhein-Westfalen,05,212,28720
+2022-W46,Nordrhein-Westfalen,05,212,28718
 2022-W46,Hessen,06,74,11585
 2022-W46,Rheinland-Pfalz,07,52,6494
 2022-W46,Baden-Württemberg,08,70,17994
@@ -2259,7 +2259,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W47,Hamburg,02,24,3243
 2022-W47,Niedersachsen,03,115,11736
 2022-W47,Bremen,04,3,883
-2022-W47,Nordrhein-Westfalen,05,193,28913
+2022-W47,Nordrhein-Westfalen,05,193,28911
 2022-W47,Hessen,06,58,11643
 2022-W47,Rheinland-Pfalz,07,30,6524
 2022-W47,Baden-Württemberg,08,175,18169
@@ -2275,7 +2275,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W48,Hamburg,02,24,3267
 2022-W48,Niedersachsen,03,88,11824
 2022-W48,Bremen,04,5,888
-2022-W48,Nordrhein-Westfalen,05,189,29102
+2022-W48,Nordrhein-Westfalen,05,189,29100
 2022-W48,Hessen,06,67,11710
 2022-W48,Rheinland-Pfalz,07,22,6546
 2022-W48,Baden-Württemberg,08,74,18243
@@ -2291,7 +2291,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W49,Hamburg,02,30,3297
 2022-W49,Niedersachsen,03,140,11964
 2022-W49,Bremen,04,6,894
-2022-W49,Nordrhein-Westfalen,05,167,29269
+2022-W49,Nordrhein-Westfalen,05,167,29267
 2022-W49,Hessen,06,60,11770
 2022-W49,Rheinland-Pfalz,07,33,6579
 2022-W49,Baden-Württemberg,08,71,18314
@@ -2307,7 +2307,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W50,Hamburg,02,35,3332
 2022-W50,Niedersachsen,03,137,12101
 2022-W50,Bremen,04,8,902
-2022-W50,Nordrhein-Westfalen,05,215,29484
+2022-W50,Nordrhein-Westfalen,05,215,29482
 2022-W50,Hessen,06,52,11822
 2022-W50,Rheinland-Pfalz,07,22,6601
 2022-W50,Baden-Württemberg,08,85,18399
@@ -2323,7 +2323,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W51,Hamburg,02,19,3351
 2022-W51,Niedersachsen,03,127,12228
 2022-W51,Bremen,04,11,913
-2022-W51,Nordrhein-Westfalen,05,227,29711
+2022-W51,Nordrhein-Westfalen,05,227,29709
 2022-W51,Hessen,06,34,11856
 2022-W51,Rheinland-Pfalz,07,24,6625
 2022-W51,Baden-Württemberg,08,87,18486
@@ -2339,7 +2339,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2022-W52,Hamburg,02,25,3376
 2022-W52,Niedersachsen,03,82,12310
 2022-W52,Bremen,04,8,921
-2022-W52,Nordrhein-Westfalen,05,136,29847
+2022-W52,Nordrhein-Westfalen,05,136,29845
 2022-W52,Hessen,06,39,11895
 2022-W52,Rheinland-Pfalz,07,24,6649
 2022-W52,Baden-Württemberg,08,93,18579
@@ -2355,7 +2355,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W01,Hamburg,02,43,3419
 2023-W01,Niedersachsen,03,194,12504
 2023-W01,Bremen,04,16,937
-2023-W01,Nordrhein-Westfalen,05,278,30125
+2023-W01,Nordrhein-Westfalen,05,278,30123
 2023-W01,Hessen,06,84,11979
 2023-W01,Rheinland-Pfalz,07,57,6706
 2023-W01,Baden-Württemberg,08,67,18646
@@ -2371,7 +2371,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W02,Hamburg,02,38,3457
 2023-W02,Niedersachsen,03,240,12744
 2023-W02,Bremen,04,5,942
-2023-W02,Nordrhein-Westfalen,05,235,30360
+2023-W02,Nordrhein-Westfalen,05,235,30358
 2023-W02,Hessen,06,55,12034
 2023-W02,Rheinland-Pfalz,07,43,6749
 2023-W02,Baden-Württemberg,08,95,18741
@@ -2387,7 +2387,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W03,Hamburg,02,32,3489
 2023-W03,Niedersachsen,03,162,12906
 2023-W03,Bremen,04,8,950
-2023-W03,Nordrhein-Westfalen,05,236,30596
+2023-W03,Nordrhein-Westfalen,05,236,30594
 2023-W03,Hessen,06,45,12079
 2023-W03,Rheinland-Pfalz,07,27,6776
 2023-W03,Baden-Württemberg,08,86,18827
@@ -2403,7 +2403,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W04,Hamburg,02,20,3509
 2023-W04,Niedersachsen,03,141,13047
 2023-W04,Bremen,04,2,952
-2023-W04,Nordrhein-Westfalen,05,157,30753
+2023-W04,Nordrhein-Westfalen,05,157,30751
 2023-W04,Hessen,06,47,12126
 2023-W04,Rheinland-Pfalz,07,25,6801
 2023-W04,Baden-Württemberg,08,101,18928
@@ -2419,7 +2419,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W05,Hamburg,02,42,3551
 2023-W05,Niedersachsen,03,174,13221
 2023-W05,Bremen,04,4,956
-2023-W05,Nordrhein-Westfalen,05,101,30854
+2023-W05,Nordrhein-Westfalen,05,101,30852
 2023-W05,Hessen,06,73,12199
 2023-W05,Rheinland-Pfalz,07,38,6839
 2023-W05,Baden-Württemberg,08,62,18990
@@ -2435,7 +2435,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W06,Hamburg,02,12,3563
 2023-W06,Niedersachsen,03,129,13350
 2023-W06,Bremen,04,4,960
-2023-W06,Nordrhein-Westfalen,05,116,30970
+2023-W06,Nordrhein-Westfalen,05,116,30968
 2023-W06,Hessen,06,40,12239
 2023-W06,Rheinland-Pfalz,07,23,6862
 2023-W06,Baden-Württemberg,08,73,19063
@@ -2451,7 +2451,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W07,Hamburg,02,30,3593
 2023-W07,Niedersachsen,03,101,13451
 2023-W07,Bremen,04,1,961
-2023-W07,Nordrhein-Westfalen,05,104,31074
+2023-W07,Nordrhein-Westfalen,05,104,31072
 2023-W07,Hessen,06,33,12272
 2023-W07,Rheinland-Pfalz,07,42,6904
 2023-W07,Baden-Württemberg,08,38,19101
@@ -2467,7 +2467,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W08,Hamburg,02,6,3599
 2023-W08,Niedersachsen,03,86,13537
 2023-W08,Bremen,04,1,962
-2023-W08,Nordrhein-Westfalen,05,107,31181
+2023-W08,Nordrhein-Westfalen,05,107,31179
 2023-W08,Hessen,06,40,12312
 2023-W08,Rheinland-Pfalz,07,27,6931
 2023-W08,Baden-Württemberg,08,71,19172
@@ -2483,7 +2483,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W09,Hamburg,02,12,3611
 2023-W09,Niedersachsen,03,94,13631
 2023-W09,Bremen,04,2,964
-2023-W09,Nordrhein-Westfalen,05,111,31292
+2023-W09,Nordrhein-Westfalen,05,111,31290
 2023-W09,Hessen,06,53,12365
 2023-W09,Rheinland-Pfalz,07,21,6952
 2023-W09,Baden-Württemberg,08,58,19230
@@ -2499,7 +2499,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W10,Hamburg,02,11,3622
 2023-W10,Niedersachsen,03,95,13726
 2023-W10,Bremen,04,4,968
-2023-W10,Nordrhein-Westfalen,05,115,31407
+2023-W10,Nordrhein-Westfalen,05,116,31406
 2023-W10,Hessen,06,77,12442
 2023-W10,Rheinland-Pfalz,07,21,6973
 2023-W10,Baden-Württemberg,08,84,19314
@@ -2515,7 +2515,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W11,Hamburg,02,12,3634
 2023-W11,Niedersachsen,03,57,13783
 2023-W11,Bremen,04,7,975
-2023-W11,Nordrhein-Westfalen,05,140,31547
+2023-W11,Nordrhein-Westfalen,05,140,31546
 2023-W11,Hessen,06,42,12484
 2023-W11,Rheinland-Pfalz,07,23,6996
 2023-W11,Baden-Württemberg,08,78,19392
@@ -2531,7 +2531,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W12,Hamburg,02,11,3645
 2023-W12,Niedersachsen,03,90,13873
 2023-W12,Bremen,04,9,984
-2023-W12,Nordrhein-Westfalen,05,191,31738
+2023-W12,Nordrhein-Westfalen,05,191,31737
 2023-W12,Hessen,06,53,12537
 2023-W12,Rheinland-Pfalz,07,30,7026
 2023-W12,Baden-Württemberg,08,61,19453
@@ -2547,7 +2547,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W13,Hamburg,02,8,3653
 2023-W13,Niedersachsen,03,61,13934
 2023-W13,Bremen,04,9,993
-2023-W13,Nordrhein-Westfalen,05,148,31886
+2023-W13,Nordrhein-Westfalen,05,148,31885
 2023-W13,Hessen,06,42,12579
 2023-W13,Rheinland-Pfalz,07,46,7072
 2023-W13,Baden-Württemberg,08,52,19505
@@ -2563,7 +2563,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W14,Hamburg,02,13,3666
 2023-W14,Niedersachsen,03,69,14003
 2023-W14,Bremen,04,1,994
-2023-W14,Nordrhein-Westfalen,05,72,31958
+2023-W14,Nordrhein-Westfalen,05,72,31957
 2023-W14,Hessen,06,44,12623
 2023-W14,Rheinland-Pfalz,07,34,7106
 2023-W14,Baden-Württemberg,08,35,19540
@@ -2579,7 +2579,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W15,Hamburg,02,28,3694
 2023-W15,Niedersachsen,03,70,14073
 2023-W15,Bremen,04,8,1002
-2023-W15,Nordrhein-Westfalen,05,107,32065
+2023-W15,Nordrhein-Westfalen,05,107,32064
 2023-W15,Hessen,06,78,12701
 2023-W15,Rheinland-Pfalz,07,19,7125
 2023-W15,Baden-Württemberg,08,49,19589
@@ -2595,7 +2595,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W16,Hamburg,02,10,3704
 2023-W16,Niedersachsen,03,81,14154
 2023-W16,Bremen,04,6,1008
-2023-W16,Nordrhein-Westfalen,05,105,32170
+2023-W16,Nordrhein-Westfalen,05,105,32169
 2023-W16,Hessen,06,39,12740
 2023-W16,Rheinland-Pfalz,07,18,7143
 2023-W16,Baden-Württemberg,08,42,19631
@@ -2611,7 +2611,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W17,Hamburg,02,17,3721
 2023-W17,Niedersachsen,03,59,14213
 2023-W17,Bremen,04,1,1009
-2023-W17,Nordrhein-Westfalen,05,120,32290
+2023-W17,Nordrhein-Westfalen,05,120,32289
 2023-W17,Hessen,06,18,12758
 2023-W17,Rheinland-Pfalz,07,28,7171
 2023-W17,Baden-Württemberg,08,34,19665
@@ -2627,7 +2627,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W18,Hamburg,02,2,3723
 2023-W18,Niedersachsen,03,61,14274
 2023-W18,Bremen,04,2,1011
-2023-W18,Nordrhein-Westfalen,05,59,32349
+2023-W18,Nordrhein-Westfalen,05,59,32348
 2023-W18,Hessen,06,18,12776
 2023-W18,Rheinland-Pfalz,07,7,7178
 2023-W18,Baden-Württemberg,08,31,19696
@@ -2643,7 +2643,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W19,Hamburg,02,13,3736
 2023-W19,Niedersachsen,03,60,14334
 2023-W19,Bremen,04,1,1012
-2023-W19,Nordrhein-Westfalen,05,44,32393
+2023-W19,Nordrhein-Westfalen,05,44,32392
 2023-W19,Hessen,06,19,12795
 2023-W19,Rheinland-Pfalz,07,13,7191
 2023-W19,Baden-Württemberg,08,33,19729
@@ -2659,7 +2659,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W20,Hamburg,02,9,3745
 2023-W20,Niedersachsen,03,30,14364
 2023-W20,Bremen,04,0,1012
-2023-W20,Nordrhein-Westfalen,05,45,32438
+2023-W20,Nordrhein-Westfalen,05,45,32437
 2023-W20,Hessen,06,26,12821
 2023-W20,Rheinland-Pfalz,07,6,7197
 2023-W20,Baden-Württemberg,08,18,19747
@@ -2675,7 +2675,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W21,Hamburg,02,14,3759
 2023-W21,Niedersachsen,03,50,14414
 2023-W21,Bremen,04,0,1012
-2023-W21,Nordrhein-Westfalen,05,35,32473
+2023-W21,Nordrhein-Westfalen,05,35,32472
 2023-W21,Hessen,06,31,12852
 2023-W21,Rheinland-Pfalz,07,7,7204
 2023-W21,Baden-Württemberg,08,13,19760
@@ -2691,7 +2691,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W22,Hamburg,02,12,3771
 2023-W22,Niedersachsen,03,36,14450
 2023-W22,Bremen,04,0,1012
-2023-W22,Nordrhein-Westfalen,05,27,32500
+2023-W22,Nordrhein-Westfalen,05,27,32499
 2023-W22,Hessen,06,3,12855
 2023-W22,Rheinland-Pfalz,07,1,7205
 2023-W22,Baden-Württemberg,08,14,19774
@@ -2707,7 +2707,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W23,Hamburg,02,15,3786
 2023-W23,Niedersachsen,03,20,14470
 2023-W23,Bremen,04,0,1012
-2023-W23,Nordrhein-Westfalen,05,8,32508
+2023-W23,Nordrhein-Westfalen,05,8,32507
 2023-W23,Hessen,06,12,12867
 2023-W23,Rheinland-Pfalz,07,1,7206
 2023-W23,Baden-Württemberg,08,17,19791
@@ -2723,7 +2723,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W24,Hamburg,02,5,3791
 2023-W24,Niedersachsen,03,49,14519
 2023-W24,Bremen,04,0,1012
-2023-W24,Nordrhein-Westfalen,05,20,32528
+2023-W24,Nordrhein-Westfalen,05,20,32527
 2023-W24,Hessen,06,27,12894
 2023-W24,Rheinland-Pfalz,07,5,7211
 2023-W24,Baden-Württemberg,08,10,19801
@@ -2739,7 +2739,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W25,Hamburg,02,12,3803
 2023-W25,Niedersachsen,03,36,14555
 2023-W25,Bremen,04,0,1012
-2023-W25,Nordrhein-Westfalen,05,20,32548
+2023-W25,Nordrhein-Westfalen,05,20,32547
 2023-W25,Hessen,06,12,12906
 2023-W25,Rheinland-Pfalz,07,6,7217
 2023-W25,Baden-Württemberg,08,12,19813
@@ -2755,7 +2755,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W26,Hamburg,02,7,3810
 2023-W26,Niedersachsen,03,47,14602
 2023-W26,Bremen,04,0,1012
-2023-W26,Nordrhein-Westfalen,05,17,32565
+2023-W26,Nordrhein-Westfalen,05,17,32564
 2023-W26,Hessen,06,28,12934
 2023-W26,Rheinland-Pfalz,07,1,7218
 2023-W26,Baden-Württemberg,08,8,19821
@@ -2767,3 +2767,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W26,Sachsen,14,13,17055
 2023-W26,Sachsen-Anhalt,15,2,6419
 2023-W26,Thüringen,16,3,8461
+2023-W27,Schleswig-Holstein,01,3,3638
+2023-W27,Hamburg,02,2,3812
+2023-W27,Niedersachsen,03,24,14626
+2023-W27,Bremen,04,0,1012
+2023-W27,Nordrhein-Westfalen,05,24,32588
+2023-W27,Hessen,06,8,12942
+2023-W27,Rheinland-Pfalz,07,3,7221
+2023-W27,Baden-Württemberg,08,8,19829
+2023-W27,Bayern,09,5,29823
+2023-W27,Saarland,10,1,2207
+2023-W27,Berlin,11,2,5845
+2023-W27,Brandenburg,12,2,6687
+2023-W27,Mecklenburg-Vorpommern,13,0,2855
+2023-W27,Sachsen,14,3,17058
+2023-W27,Sachsen-Anhalt,15,1,6420
+2023-W27,Thüringen,16,3,8464
