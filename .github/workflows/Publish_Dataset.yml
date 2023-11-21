@@ -1,0 +1,21 @@
+name: main
+on:
+  push:
+    tags:
+      - '[0-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9]'
+  #workflow_dispatch:
+
+jobs:
+  build:
+    uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
+    with:
+      OPENCODE_GROUPID: 2781
+      OPENCODE_ACCESS_USER: RKIOpenData
+      OPENCODE_ZENODOJSON_PATH: Metadaten/zenodo.json
+      GOVDATA_DESTINATION_REPO: robert-koch-institut/Metadaten_fuer_GovData
+    secrets:
+      GOVDATA_GITHUB_TOKEN: ${{secrets.GOVDATA_TOKEN}}
+      OPENCODE_TOKEN: ${{secrets.OPENCODE_TOKEN}}
+      NFDI4HEALTH_CLIENT_ID: CSH_RKI_CLIENT
+      NFDI4HEALTH_CLIENT_SECRET: ${{secrets.NFDI4HEALTH_SECRET}}
+      GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
