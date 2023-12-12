@@ -1,10 +1,13 @@
+name: Manually send metadata to GovData
 on:
   workflow_dispatch:
+  
 permissions:
   contents: write
+  
 jobs:
   push_govdata:
-    name: push ttl to GovData
+    name: Push ttl to GovData repository
     runs-on: ubuntu-latest
     steps:
       - name: run GovData Action

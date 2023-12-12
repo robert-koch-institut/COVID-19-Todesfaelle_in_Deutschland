@@ -1,5 +1,4 @@
-name: Build and deploy OpenData-Website
-
+name: Manually build and deploy OpenData-Website
 on:
   workflow_dispatch:
 
@@ -8,8 +7,9 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # Steps represent a sequence of tasks that will be executed as part of the job
+    runs-on: ubuntu-latest
     steps:  
-    - name: Bulid and deploy OpenData Website
-      uses: robert-koch-institut/OpenData-Website@main
-      with:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
+      - name: Bulid and deploy OpenData Website
+        uses: robert-koch-institut/OpenData-Website@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   

@@ -1,6 +1,7 @@
-name: Send metadata to NFDI4Health
+name: Manually send metadata to NFDI4Health
 on:
   workflow_dispatch:
+  
 jobs:
   sync_opencode:
     name: Send metadata to NFDI4Health
