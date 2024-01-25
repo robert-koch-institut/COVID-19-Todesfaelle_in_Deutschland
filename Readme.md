@@ -16,7 +16,7 @@ Seestraße 10
 ---
 
 **Zitieren**  
-Robert Koch-Institut (2024): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.10559669](https://doi.org/10.5281/zenodo.10559669)
+Robert Koch-Institut (2024): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.10565815](https://doi.org/10.5281/zenodo.10565815)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
