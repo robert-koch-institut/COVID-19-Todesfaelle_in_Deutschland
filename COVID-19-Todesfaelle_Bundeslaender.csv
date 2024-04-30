@@ -3153,7 +3153,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W50,Thüringen,16,25,8590
 2023-W51,Schleswig-Holstein,01,23,3816
 2023-W51,Hamburg,02,19,3963
-2023-W51,Niedersachsen,03,59,15415
+2023-W51,Niedersachsen,03,60,15416
 2023-W51,Bremen,04,8,1063
 2023-W51,Nordrhein-Westfalen,05,112,33420
 2023-W51,Hessen,06,31,13283
@@ -3169,7 +3169,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W51,Thüringen,16,18,8608
 2023-W52,Schleswig-Holstein,01,15,3831
 2023-W52,Hamburg,02,15,3978
-2023-W52,Niedersachsen,03,35,15450
+2023-W52,Niedersachsen,03,35,15451
 2023-W52,Bremen,04,0,1063
 2023-W52,Nordrhein-Westfalen,05,23,33443
 2023-W52,Hessen,06,24,13307
@@ -3185,7 +3185,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2023-W52,Thüringen,16,14,8622
 2024-W01,Schleswig-Holstein,01,12,3843
 2024-W01,Hamburg,02,6,3984
-2024-W01,Niedersachsen,03,64,15514
+2024-W01,Niedersachsen,03,64,15515
 2024-W01,Bremen,04,1,1064
 2024-W01,Nordrhein-Westfalen,05,85,33528
 2024-W01,Hessen,06,38,13345
@@ -3201,7 +3201,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W01,Thüringen,16,23,8645
 2024-W02,Schleswig-Holstein,01,10,3853
 2024-W02,Hamburg,02,13,3997
-2024-W02,Niedersachsen,03,59,15573
+2024-W02,Niedersachsen,03,59,15574
 2024-W02,Bremen,04,1,1065
 2024-W02,Nordrhein-Westfalen,05,76,33604
 2024-W02,Hessen,06,51,13396
@@ -3217,7 +3217,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W02,Thüringen,16,15,8660
 2024-W03,Schleswig-Holstein,01,13,3866
 2024-W03,Hamburg,02,7,4004
-2024-W03,Niedersachsen,03,50,15623
+2024-W03,Niedersachsen,03,50,15624
 2024-W03,Bremen,04,0,1065
 2024-W03,Nordrhein-Westfalen,05,62,33666
 2024-W03,Hessen,06,41,13437
@@ -3233,7 +3233,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W03,Thüringen,16,3,8663
 2024-W04,Schleswig-Holstein,01,0,3866
 2024-W04,Hamburg,02,6,4010
-2024-W04,Niedersachsen,03,33,15656
+2024-W04,Niedersachsen,03,33,15657
 2024-W04,Bremen,04,0,1065
 2024-W04,Nordrhein-Westfalen,05,72,33738
 2024-W04,Hessen,06,30,13467
@@ -3249,7 +3249,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W04,Thüringen,16,14,8677
 2024-W05,Schleswig-Holstein,01,10,3876
 2024-W05,Hamburg,02,14,4024
-2024-W05,Niedersachsen,03,58,15714
+2024-W05,Niedersachsen,03,58,15715
 2024-W05,Bremen,04,1,1066
 2024-W05,Nordrhein-Westfalen,05,35,33773
 2024-W05,Hessen,06,19,13486
@@ -3265,7 +3265,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W05,Thüringen,16,5,8682
 2024-W06,Schleswig-Holstein,01,7,3883
 2024-W06,Hamburg,02,17,4041
-2024-W06,Niedersachsen,03,34,15748
+2024-W06,Niedersachsen,03,36,15751
 2024-W06,Bremen,04,0,1066
 2024-W06,Nordrhein-Westfalen,05,37,33810
 2024-W06,Hessen,06,15,13501
@@ -3281,7 +3281,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W06,Thüringen,16,14,8696
 2024-W07,Schleswig-Holstein,01,3,3886
 2024-W07,Hamburg,02,5,4046
-2024-W07,Niedersachsen,03,32,15780
+2024-W07,Niedersachsen,03,32,15783
 2024-W07,Bremen,04,0,1066
 2024-W07,Nordrhein-Westfalen,05,25,33835
 2024-W07,Hessen,06,11,13512
@@ -3297,7 +3297,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W07,Thüringen,16,3,8699
 2024-W08,Schleswig-Holstein,01,6,3892
 2024-W08,Hamburg,02,16,4062
-2024-W08,Niedersachsen,03,16,15796
+2024-W08,Niedersachsen,03,16,15799
 2024-W08,Bremen,04,1,1067
 2024-W08,Nordrhein-Westfalen,05,34,33869
 2024-W08,Hessen,06,10,13522
@@ -3313,7 +3313,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W08,Thüringen,16,6,8705
 2024-W09,Schleswig-Holstein,01,0,3892
 2024-W09,Hamburg,02,3,4065
-2024-W09,Niedersachsen,03,26,15822
+2024-W09,Niedersachsen,03,26,15825
 2024-W09,Bremen,04,0,1067
 2024-W09,Nordrhein-Westfalen,05,17,33886
 2024-W09,Hessen,06,14,13536
@@ -3329,7 +3329,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W09,Thüringen,16,2,8707
 2024-W10,Schleswig-Holstein,01,2,3894
 2024-W10,Hamburg,02,2,4067
-2024-W10,Niedersachsen,03,10,15832
+2024-W10,Niedersachsen,03,10,15835
 2024-W10,Bremen,04,0,1067
 2024-W10,Nordrhein-Westfalen,05,8,33894
 2024-W10,Hessen,06,9,13545
@@ -3345,7 +3345,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W10,Thüringen,16,7,8714
 2024-W11,Schleswig-Holstein,01,4,3898
 2024-W11,Hamburg,02,15,4082
-2024-W11,Niedersachsen,03,11,15843
+2024-W11,Niedersachsen,03,11,15846
 2024-W11,Bremen,04,0,1067
 2024-W11,Nordrhein-Westfalen,05,10,33904
 2024-W11,Hessen,06,5,13550
@@ -3361,7 +3361,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W11,Thüringen,16,8,8722
 2024-W12,Schleswig-Holstein,01,6,3904
 2024-W12,Hamburg,02,1,4083
-2024-W12,Niedersachsen,03,3,15846
+2024-W12,Niedersachsen,03,3,15849
 2024-W12,Bremen,04,0,1067
 2024-W12,Nordrhein-Westfalen,05,8,33912
 2024-W12,Hessen,06,13,13563
@@ -3377,7 +3377,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W12,Thüringen,16,7,8729
 2024-W13,Schleswig-Holstein,01,3,3907
 2024-W13,Hamburg,02,6,4089
-2024-W13,Niedersachsen,03,5,15851
+2024-W13,Niedersachsen,03,5,15854
 2024-W13,Bremen,04,2,1069
 2024-W13,Nordrhein-Westfalen,05,1,33913
 2024-W13,Hessen,06,11,13574
@@ -3393,7 +3393,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W13,Thüringen,16,0,8729
 2024-W14,Schleswig-Holstein,01,4,3911
 2024-W14,Hamburg,02,2,4091
-2024-W14,Niedersachsen,03,15,15866
+2024-W14,Niedersachsen,03,15,15869
 2024-W14,Bremen,04,0,1069
 2024-W14,Nordrhein-Westfalen,05,28,33941
 2024-W14,Hessen,06,1,13575
@@ -3409,7 +3409,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W14,Thüringen,16,1,8730
 2024-W15,Schleswig-Holstein,01,0,3911
 2024-W15,Hamburg,02,2,4093
-2024-W15,Niedersachsen,03,7,15873
+2024-W15,Niedersachsen,03,7,15876
 2024-W15,Bremen,04,1,1070
 2024-W15,Nordrhein-Westfalen,05,11,33952
 2024-W15,Hessen,06,0,13575
@@ -3425,7 +3425,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W15,Thüringen,16,6,8736
 2024-W16,Schleswig-Holstein,01,0,3911
 2024-W16,Hamburg,02,5,4098
-2024-W16,Niedersachsen,03,13,15886
+2024-W16,Niedersachsen,03,13,15889
 2024-W16,Bremen,04,0,1070
 2024-W16,Nordrhein-Westfalen,05,3,33955
 2024-W16,Hessen,06,7,13582
@@ -3439,3 +3439,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W16,Sachsen,14,2,17472
 2024-W16,Sachsen-Anhalt,15,1,6699
 2024-W16,Thüringen,16,1,8737
+2024-W17,Schleswig-Holstein,01,0,3911
+2024-W17,Hamburg,02,1,4099
+2024-W17,Niedersachsen,03,3,15892
+2024-W17,Bremen,04,0,1070
+2024-W17,Nordrhein-Westfalen,05,16,33971
+2024-W17,Hessen,06,4,13586
+2024-W17,Rheinland-Pfalz,07,3,7573
+2024-W17,Baden-Württemberg,08,5,20624
+2024-W17,Bayern,09,7,30982
+2024-W17,Saarland,10,0,2303
+2024-W17,Berlin,11,0,6212
+2024-W17,Brandenburg,12,2,7001
+2024-W17,Mecklenburg-Vorpommern,13,0,2993
+2024-W17,Sachsen,14,0,17472
+2024-W17,Sachsen-Anhalt,15,0,6699
+2024-W17,Thüringen,16,1,8738
