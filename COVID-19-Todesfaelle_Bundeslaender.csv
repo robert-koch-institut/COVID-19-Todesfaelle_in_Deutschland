@@ -3367,7 +3367,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W12,Hessen,06,13,13563
 2024-W12,Rheinland-Pfalz,07,0,7568
 2024-W12,Baden-Württemberg,08,8,20601
-2024-W12,Bayern,09,8,30947
+2024-W12,Bayern,09,7,30946
 2024-W12,Saarland,10,1,2301
 2024-W12,Berlin,11,3,6210
 2024-W12,Brandenburg,12,3,6992
@@ -3383,7 +3383,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W13,Hessen,06,11,13574
 2024-W13,Rheinland-Pfalz,07,0,7568
 2024-W13,Baden-Württemberg,08,3,20604
-2024-W13,Bayern,09,11,30958
+2024-W13,Bayern,09,11,30957
 2024-W13,Saarland,10,0,2301
 2024-W13,Berlin,11,1,6211
 2024-W13,Brandenburg,12,3,6995
@@ -3399,7 +3399,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W14,Hessen,06,1,13575
 2024-W14,Rheinland-Pfalz,07,0,7568
 2024-W14,Baden-Württemberg,08,4,20608
-2024-W14,Bayern,09,5,30963
+2024-W14,Bayern,09,5,30962
 2024-W14,Saarland,10,2,2303
 2024-W14,Berlin,11,0,6211
 2024-W14,Brandenburg,12,2,6997
@@ -3415,7 +3415,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W15,Hessen,06,0,13575
 2024-W15,Rheinland-Pfalz,07,2,7570
 2024-W15,Baden-Württemberg,08,6,20614
-2024-W15,Bayern,09,9,30972
+2024-W15,Bayern,09,9,30971
 2024-W15,Saarland,10,0,2303
 2024-W15,Berlin,11,1,6212
 2024-W15,Brandenburg,12,2,6999
@@ -3431,7 +3431,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W16,Hessen,06,7,13582
 2024-W16,Rheinland-Pfalz,07,0,7570
 2024-W16,Baden-Württemberg,08,5,20619
-2024-W16,Bayern,09,3,30975
+2024-W16,Bayern,09,3,30974
 2024-W16,Saarland,10,0,2303
 2024-W16,Berlin,11,0,6212
 2024-W16,Brandenburg,12,0,6999
@@ -3447,7 +3447,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W17,Hessen,06,4,13586
 2024-W17,Rheinland-Pfalz,07,3,7573
 2024-W17,Baden-Württemberg,08,5,20624
-2024-W17,Bayern,09,7,30982
+2024-W17,Bayern,09,7,30981
 2024-W17,Saarland,10,0,2303
 2024-W17,Berlin,11,0,6212
 2024-W17,Brandenburg,12,2,7001
@@ -3455,3 +3455,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W17,Sachsen,14,0,17472
 2024-W17,Sachsen-Anhalt,15,0,6699
 2024-W17,Thüringen,16,1,8738
+2024-W18,Schleswig-Holstein,01,0,3911
+2024-W18,Hamburg,02,0,4099
+2024-W18,Niedersachsen,03,8,15900
+2024-W18,Bremen,04,0,1070
+2024-W18,Nordrhein-Westfalen,05,5,33976
+2024-W18,Hessen,06,3,13589
+2024-W18,Rheinland-Pfalz,07,2,7575
+2024-W18,Baden-Württemberg,08,4,20628
+2024-W18,Bayern,09,1,30982
+2024-W18,Saarland,10,1,2304
+2024-W18,Berlin,11,0,6212
+2024-W18,Brandenburg,12,1,7002
+2024-W18,Mecklenburg-Vorpommern,13,0,2993
+2024-W18,Sachsen,14,0,17472
+2024-W18,Sachsen-Anhalt,15,2,6701
+2024-W18,Thüringen,16,3,8741
