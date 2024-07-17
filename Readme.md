@@ -1,22 +1,24 @@
 Datensatzdokumentation
 # COVID-19-Todesfälle in Deutschland
 
-[Robert Koch-Institut | RKI](https://www.wikidata.org/wiki/Q679041)   
-Seestraße 10  
+[Robert Koch-Institut | RKI](http://www.rki.de)  
+Nordufer 20  
 13353 Berlin  
 
 
-**Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle**  
-[Alexander Ullrich](https://orcid.org/0000-0002-4894-6124) (Datenmanagement)  
-[Michaela Diercke](https://orcid.org/0000-0002-4678-1813) (Projektleitung)  
+<br>
 
-**Fachgebiet MF4 | Informations- und Forschungsdatenmanagment**  
-[Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)   
+**Beitragende**  
 
+[Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1; (Datenmanagement), [Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1; (Leitung) und [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326)&sup2; (Datenkuration)     
+
+&emsp;&sup1; Robert Koch-Institut | [Fachgebiet 32](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/FG32_node.html)   
+&emsp;&sup2; Robert Koch-Institut | [Fachgebiet MF 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html)  
+  
 ---
 
 **Zitieren**  
-Robert Koch-Institut (2024): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.12747706](https://doi.org/10.5281/zenodo.12747706)
+Robert Koch-Institut (**2024**): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.12754301](https://doi.org/10.5281/zenodo.12754301)
 
 
 ## Informationen zum Datensatz und Entstehungskontext
