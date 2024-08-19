@@ -14,7 +14,7 @@ abstract: >-
   andererseits zu einer Überschätzung des Anteils der Verstorbenen einer
   Infektionskrankheit kommen. Ausführlich Hinweise zur Datenerhebung und
   Interpretation können der Datensatzdokumentation entnommen werden.
-date-released: '2024-08-18'
+date-released: '2024-08-19'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -30,7 +30,7 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.13337176
-version: '2024-08-18T07:30:15+02:00'
+doi: 10.5281/zenodo.13340569
+version: '2024-08-19T07:30:14+02:00'
 authors:
   - name: Robert Koch-Institut
