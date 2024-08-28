@@ -1,0 +1,29 @@
+{
+  "fields": [
+    {
+      "name": "Datum",
+      "type": "string",
+      "constraints": {}
+    },
+    {
+      "name": "Region_Name",
+      "type": "string",
+      "constraints": {}
+    },
+    {
+      "name": "Region_Id",
+      "type": "integer",
+      "constraints": {}
+    },
+    {
+      "name": "Todesfaelle",
+      "type": "integer",
+      "constraints": {}
+    },
+    {
+      "name": "Todesfaelle_gesamt",
+      "type": "integer",
+      "constraints": {}
+    }
+  ]
+}

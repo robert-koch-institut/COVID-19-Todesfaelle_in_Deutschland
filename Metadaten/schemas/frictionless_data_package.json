@@ -1,0 +1,34 @@
+{
+  "name": "covid-19-todesfaelle_in_deutschland",
+  "title": "COVID-19-Todesfaelle_in_Deutschland",
+  "description": "Frictionless data package. This package lists and describes all data files in this open data repository. For more information on frictionless data, see https://specs.frictionlessdata.io/ and https://framework.frictionlessdata.io/.",
+  "resources": [
+    {
+      "name": "covid-19-todesfaelle_altersgruppen",
+      "type": "table",
+      "path": "../../COVID-19-Todesfaelle_Altersgruppen.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json"
+    },
+    {
+      "name": "covid-19-todesfaelle_bundeslaender",
+      "type": "table",
+      "path": "../../COVID-19-Todesfaelle_Bundeslaender.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json"
+    },
+    {
+      "name": "covid-19-todesfaelle_deutschland",
+      "type": "table",
+      "path": "../../COVID-19-Todesfaelle_Deutschland.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json"
+    }
+  ]
+}

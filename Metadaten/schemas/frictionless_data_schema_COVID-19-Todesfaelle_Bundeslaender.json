@@ -1,0 +1,62 @@
+{
+  "fields": [
+    {
+      "name": "Datum",
+      "type": "string",
+      "description": "Kalenderwoche in der die Todesfälle an das RKI übermittelt worden",
+      "constraints": {
+        "pattern": "[1,2]{1}[0-9]{3}-W(5[0-3]|[1-4][0-9]|0[1-9])"
+      }
+    },
+    {
+      "name": "Region_Name",
+      "type": "string",
+      "description": "Name der Region der die übermittelten Fälle zugeordnet werden",
+      "constraints": {
+        "enum": [
+          "Baden-Württemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen"
+        ]
+      }
+    },
+    {
+      "name": "Region_Id",
+      "type": "integer",
+      "description": "Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden",
+      "constraints": {
+        "minimum": 1,
+        "maximum": 16
+      }
+    },
+    {
+      "name": "Todesfaelle",
+      "type": "integer",
+      "description": "Anzahl der in der Kalenderwoche übermittelten Todesfälle",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Todesfaelle_gesamt",
+      "type": "integer",
+      "description": "Summe aller übermittelten Todesfälle",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}

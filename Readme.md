@@ -129,7 +129,7 @@ Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle 
 | Variable |Typ | Ausprägung | Beschreibung| 
 | -----| ----- | ----- | ----- |
 | Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Altersgruppe | Text | `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`,`80+`| Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren
+| Altersgruppe | Text | `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`,`80+`| Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren |
 | Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
 | Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
 
@@ -142,7 +142,7 @@ Im Datensatz werden die übermittelten Daten zu COVID-19-Todesfällen nach Bunde
 Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller über das Meldesystem gemäß Infektionsschutzgesetz an das RKI übermittelten COVID-19-Fälle ab. Das bedeutet, dass alle bis Sonntag 24:00 Uhr von den Gesundheitsämtern über die zuständigen Landesbehörden an das RKI übermittelten  COVID-19-Fälle im Datenstand enthalten sind. Die Daten werden wöchentlich vollständig neu erzeugt, dieser Datenstand ersetzt den Datenstand der Vorwoche.  
 
 - Woche (Datum)
-- Georgafische Region (Region_name, Region_id)
+- Georgafische Region (Region_Name, Region_Id)
 - Fallzahlen der übermittelten COVID-19-Todesfälle (Todesfaelle, Todesfaell_gesamt)
 
 
@@ -154,7 +154,7 @@ Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle 
 | -----| ----- | ----- | ----- |
 | Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
 | Region_Name | Text |`Schleswig-Holstein` <br>...<br> `Thüringen` | Name der Region der die übermittelten Fälle zugeordnet werden |
-| Region_id | Text |  `01`, `02`, `03`, `04`, `05`, `06`, `07`, `08`, `09`, `10`, `11`,`12`, `13`, `14`, `15`, `16` |Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden | 
+| Region_Id | Text |  `01`, `02`, `03`, `04`, `05`, `06`, `07`, `08`, `09`, `10`, `11`,`12`, `13`, `14`, `15`, `16` |Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden | 
 | Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
 | Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
 
