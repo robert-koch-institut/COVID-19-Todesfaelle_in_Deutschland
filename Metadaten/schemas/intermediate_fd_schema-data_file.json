@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "Berichtsdatum",
+      "type": "date"
+    },
+    {
+      "name": "Faelle_gesamt",
+      "type": "integer"
+    },
+    {
+      "name": "Todesfaelle_gesamt",
+      "type": "integer"
+    },
+    {
+      "name": "Todesfaelle_neu",
+      "type": "integer"
+    },
+    {
+      "name": "Fall-Verstorbenen-Anteil",
+      "type": "number"
+    }
+  ]
+}

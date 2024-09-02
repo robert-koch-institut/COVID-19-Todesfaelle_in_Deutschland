@@ -2,14 +2,14 @@
   "fields": [
     {
       "name": "Datum",
-      "type": "date",
-      "description": "Kalenderwoche in der die Todesfälle an das RKI übermittelt worden",
-      "format": "%Y-W%U"
+      "type": "string",
+      "constraints": {
+        "pattern": "[1,2]{1}[0-9]{3}-W(5[0-3]|[1-4][0-9]|0[1-9])"
+      }
     },
     {
       "name": "Altersgruppe",
       "type": "string",
-      "description": "Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren",
       "constraints": {
         "enum": [
           "00+",
@@ -25,7 +25,6 @@
     {
       "name": "Todesfaelle",
       "type": "integer",
-      "description": "Anzahl der in der Kalenderwoche übermittelten Todesfälle",
       "constraints": {
         "minimum": 0
       }
@@ -33,7 +32,6 @@
     {
       "name": "Todesfaelle_gesamt",
       "type": "integer",
-      "description": "Summe aller übermittelten Todesfälle",
       "constraints": {
         "minimum": 0
       }

@@ -3,7 +3,8 @@
     {
       "name": "Berichtsdatum",
       "type": "date",
-      "description": "Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden"
+      "description": "Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden",
+      "format": "%Y-%m-%d"
     },
     {
       "name": "Faelle_gesamt",

@@ -3,7 +3,8 @@
     {
       "name": "Datum",
       "type": "date",
-      "description": "Kalenderwoche in der die Todesfälle an das RKI übermittelt worden"
+      "description": "Kalenderwoche in der die Todesfälle an das RKI übermittelt worden",
+      "format": "%Y-W%U"
     },
     {
       "name": "Region_Name",
