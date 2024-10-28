@@ -1,6 +1,0 @@
-| Variable           | Typ     | Ausprägungen                                                     | Beschreibung                                                      |
-|:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
-| Datum              | date    | Format: `%Y-W%U`                                                 | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Altersgruppe       | string  | Werte: `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
-| Todesfaelle        | integer | Minimum: 0                                                       | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
-| Todesfaelle_gesamt | integer | Minimum: 0                                                       | Summe aller übermittelten Todesfälle                              |

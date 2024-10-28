@@ -100,13 +100,16 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Berichtsdatum | Datum | `jjjj-mm-tt` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
-| Faelle_gesamt | Natürliche Zahl | `≥ 0` | Gesamtzahl aller übermittelten COVID-19-Fälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Gesamtzahl aller übermittelten COVID-19-Todesfälle |
-| Todesfaelle_neu | Natürliche Zahl | `≥ 0`| Anzahl der am Berichtsdatum neu berichteten Todesfälle |
-| Fall-Verstorbenen-Anteil | Rationale Zahl | `≥ 0`| Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen |
+| Variable                 | Typ     | Ausprägungen         | Beschreibung                                                         |
+|:-------------------------|:--------|:---------------------|:---------------------------------------------------------------------|
+| Berichtsdatum            | date    | Format: `YYYY-MM-DD` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
+| Faelle_gesamt            | integer | Minimum: 0           | Gesamtzahl aller übermittelten COVID-19-Fälle                        |
+| Todesfaelle_gesamt       | integer | Minimum: 0           | Gesamtzahl aller übermittelten COVID-19-Todesfälle                   |
+| Todesfaelle_neu          | integer | Minimum: 0           | Anzahl der am Berichtsdatum neu berichteten Todesfälle               |
+| Fall-Verstorbenen-Anteil | number  | Minimum: 0           | Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen              |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json).
+
 
 
 ### COVID-19-Todesfälle nach Altersgruppen 
@@ -126,12 +129,15 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Altersgruppe | Text | `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`,`80+`| Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren |
-| Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
+| Variable           | Typ     | Ausprägungen                                                     | Beschreibung                                                      |
+|:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                               | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
+| Altersgruppe       | string  | Werte: `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
+| Todesfaelle        | integer | Minimum: 0                                                       | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
+| Todesfaelle_gesamt | integer | Minimum: 0                                                       | Summe aller übermittelten Todesfälle                              |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json).
+
 
 ### COVID-19-Todesfälle nach Bundesländern
 
@@ -150,13 +156,16 @@ Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller 
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Region_Name | Text |`Schleswig-Holstein` <br>...<br> `Thüringen` | Name der Region der die übermittelten Fälle zugeordnet werden |
-| Region_Id | Text |  `01`, `02`, `03`, `04`, `05`, `06`, `07`, `08`, `09`, `10`, `11`,`12`, `13`, `14`, `15`, `16` |Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden | 
-| Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
+| Variable           | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                         |
+|:-------------------|:--------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
+| Region_Name        | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Region der die übermittelten Fälle zugeordnet werden                                                                        |
+| Region_Id          | string  | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden |
+| Todesfaelle        | integer | Minimum: 0                                                                                      | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
+| Todesfaelle_gesamt | integer | Minimum: 0                                                                                      | Summe aller übermittelten Todesfälle                                                                                                 |
+
+Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json).
+
 
 
 ### Formatierung 
