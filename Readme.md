@@ -100,6 +100,12 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Deutschland", "lang": "de"} -->
+
+Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json) hinterlegt:
+> [frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable                 | Typ     | Ausprägungen         | Beschreibung                                                         |
 |:-------------------------|:--------|:---------------------|:---------------------------------------------------------------------|
 | Berichtsdatum            | date    | Format: `YYYY-MM-DD` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
@@ -108,11 +114,14 @@ Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle 
 | Todesfaelle_neu          | integer | Werte: ≥0            | Anzahl der am Berichtsdatum neu berichteten Todesfälle               |
 | Fall-Verstorbenen-Anteil | number  | Werte: ≥0            | Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen              |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json).
+
 
 
 
@@ -133,6 +142,12 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Altersgruppen", "lang": "de"} -->
+
+Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Altersgruppen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json) hinterlegt:
+> [frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable           | Typ     | Ausprägungen                                                     | Beschreibung                                                      |
 |:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
 | Datum              | date    | Format: `YYYY-Www`                                               | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
@@ -140,11 +155,14 @@ Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle 
 | Todesfaelle        | integer | Werte: ≥0                                                        | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
 | Todesfaelle_gesamt | integer | Werte: ≥0                                                        | Summe aller übermittelten Todesfälle                              |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Altersgruppen.json).
+
 
 
 ### COVID-19-Todesfälle nach Bundesländern
@@ -164,6 +182,12 @@ Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller 
 
 Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Bundeslaender", "lang": "de"} -->
+
+Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Bundeslaender.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json) hinterlegt:
+> [frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
 | Variable           | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                         |
 |:-------------------|:--------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | Datum              | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
@@ -172,11 +196,14 @@ Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle 
 | Todesfaelle        | integer | Werte: ≥0                                                                                       | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
 | Todesfaelle_gesamt | integer | Werte: ≥0                                                                                       | Summe aller übermittelten Todesfälle                                                                                                 |
 
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 
 
-Eine maschinenlesbares Datenschema zu diesem Datensatz finden sie in der Datei [`frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json`](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Bundeslaender.json).
+
 
 
 
