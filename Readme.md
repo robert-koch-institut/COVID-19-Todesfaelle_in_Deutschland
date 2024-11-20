@@ -98,8 +98,6 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 
 #### Variablen und Variablenausprägungen  
 
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
-
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Deutschland", "lang": "de"} -->
 
 Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Frictionless-Data Format](https://specs.frictionlessdata.io/) in [frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/frictionless_data_schema_COVID-19-Todesfaelle_Deutschland.json) hinterlegt:
@@ -119,12 +117,6 @@ Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
-
 ### COVID-19-Todesfälle nach Altersgruppen 
 
 Neben den Daten nach Berichtsdatum auf Bundesebene, werden die übermittelten Daten zu COVID-19-Todesfällen nach Altersgruppen auf Bundesebene bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich den Daten [nach Berichtsdatum auf Bundesebene](#COVID-19-Todesfälle-nach-Berichtsdatum-auf-Bundesebene) kommen. 
@@ -139,8 +131,6 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 
 
 #### Variablen und Variablenausprägungen  
-
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Altersgruppen", "lang": "de"} -->
 
@@ -160,11 +150,6 @@ Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koc
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
-
-
-
-
-
 ### COVID-19-Todesfälle nach Bundesländern
 
 Im Datensatz werden die übermittelten Daten zu COVID-19-Todesfällen nach Bundesländern bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich zu vorherigen Datenständen [nach Berichtsdatum auf Bundesebene](#COVID-19-Todesflle-nach-Berichtsdatum-auf-Bundesebene) kommen. 
@@ -179,8 +164,6 @@ Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller 
 
 
 #### Variablen und Variablenausprägungen  
-
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Bundeslaender", "lang": "de"} -->
 
@@ -199,12 +182,6 @@ Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koc
 <!-- DATA_SCHEMA_TABLE_END -->
 
 <!-- DATA_SCHEMA_SPECIFICATION_END -->
-
-
-
-
-
-
 
 
 ### Formatierung 
