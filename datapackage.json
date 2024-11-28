@@ -1,0 +1,35 @@
+{
+  "name": "10.5281/zenodo.7127831",
+  "title": "COVID-19-Todesfälle in Deutschland",
+  "description": "Diese Datei gibt eine Übersicht über die Datensätze in diesem Open Data Repository. Informationen zum Data Package Standard finden Sie unter https://datapackage.org/. Mehr Information über diesen Datensatz finden sie auf Zenodo (https://doi.org/10.5281/zenodo.7127831) oder Github (https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland)",
+  "homepage": "https://doi.org/10.5281/zenodo.7127831",
+  "resources": [
+    {
+      "name": "covid-19-todesfaelle_altersgruppen",
+      "type": "table",
+      "path": "COVID-19-Todesfaelle_Altersgruppen.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json"
+    },
+    {
+      "name": "covid-19-todesfaelle_bundeslaender",
+      "type": "table",
+      "path": "COVID-19-Todesfaelle_Bundeslaender.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json"
+    },
+    {
+      "name": "covid-19-todesfaelle_deutschland",
+      "type": "table",
+      "path": "COVID-19-Todesfaelle_Deutschland.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json"
+    }
+  ]
+}
