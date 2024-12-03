@@ -107,10 +107,10 @@ Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-
 | Variable                 | Typ     | Ausprägungen         | Beschreibung                                                         |
 |:-------------------------|:--------|:---------------------|:---------------------------------------------------------------------|
 | Berichtsdatum            | date    | Format: `YYYY-MM-DD` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
-| Faelle_gesamt            | integer | Werte: ≥0            | Gesamtzahl aller übermittelten COVID-19-Fälle                        |
-| Todesfaelle_gesamt       | integer | Werte: ≥0            | Gesamtzahl aller übermittelten COVID-19-Todesfälle                   |
-| Todesfaelle_neu          | integer | Werte: ≥0            | Anzahl der am Berichtsdatum neu berichteten Todesfälle               |
-| Fall-Verstorbenen-Anteil | number  | Werte: ≥0            | Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen              |
+| Faelle_gesamt            | integer | Werte: `≥0`          | Gesamtzahl aller übermittelten COVID-19-Fälle                        |
+| Todesfaelle_gesamt       | integer | Werte: `≥0`          | Gesamtzahl aller übermittelten COVID-19-Todesfälle                   |
+| Todesfaelle_neu          | integer | Werte: `≥0`          | Anzahl der am Berichtsdatum neu berichteten Todesfälle               |
+| Fall-Verstorbenen-Anteil | number  | Werte: `≥0`          | Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen              |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -142,8 +142,8 @@ Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koc
 |:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
 | Datum              | date    | Format: `YYYY-Www`                                               | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
 | Altersgruppe       | string  | Werte: `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
-| Todesfaelle        | integer | Werte: ≥0                                                        | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
-| Todesfaelle_gesamt | integer | Werte: ≥0                                                        | Summe aller übermittelten Todesfälle                              |
+| Todesfaelle        | integer | Werte: `≥0`                                                      | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                      | Summe aller übermittelten Todesfälle                              |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -176,8 +176,8 @@ Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koc
 | Datum              | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
 | Region_Name        | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Region der die übermittelten Fälle zugeordnet werden                                                                        |
 | Region_Id          | string  | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden |
-| Todesfaelle        | integer | Werte: ≥0                                                                                       | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
-| Todesfaelle_gesamt | integer | Werte: ≥0                                                                                       | Summe aller übermittelten Todesfälle                                                                                                 |
+| Todesfaelle        | integer | Werte: `≥0`                                                                                     | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                                                     | Summe aller übermittelten Todesfälle                                                                                                 |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
