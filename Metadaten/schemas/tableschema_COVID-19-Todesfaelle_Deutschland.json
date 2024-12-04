@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "name": "Berichtsdatum",
+      "type": "date",
+      "description": "Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden",
+      "format": "%Y-%m-%d"
+    },
+    {
+      "name": "Faelle_gesamt",
+      "type": "integer",
+      "description": "Gesamtzahl aller übermittelten COVID-19-Fälle",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Todesfaelle_gesamt",
+      "type": "integer",
+      "description": "Gesamtzahl aller übermittelten COVID-19-Todesfälle",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Todesfaelle_neu",
+      "type": "integer",
+      "description": "Anzahl der am Berichtsdatum neu berichteten Todesfälle",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Fall-Verstorbenen-Anteil",
+      "type": "number",
+      "description": "Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen",
+      "constraints": {
+        "minimum": 0
+      }
+    }
+  ]
+}
