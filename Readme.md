@@ -98,15 +98,23 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 
 #### Variablen und Variablenausprägungen  
 
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Deutschland", "lang": "de"} -->
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Berichtsdatum | Datum | `jjjj-mm-tt` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
-| Faelle_gesamt | Natürliche Zahl | `≥ 0` | Gesamtzahl aller übermittelten COVID-19-Fälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Gesamtzahl aller übermittelten COVID-19-Todesfälle |
-| Todesfaelle_neu | Natürliche Zahl | `≥ 0`| Anzahl der am Berichtsdatum neu berichteten Todesfälle |
-| Fall-Verstorbenen-Anteil | Rationale Zahl | `≥ 0`| Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen |
+Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json) hinterlegt:
+> [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable                 | Typ     | Ausprägungen         | Beschreibung                                                         |
+|:-------------------------|:--------|:---------------------|:---------------------------------------------------------------------|
+| Berichtsdatum            | date    | Format: `YYYY-MM-DD` | Datum, an dem die Todesfälle erstmals durch das RKI berichtet wurden |
+| Faelle_gesamt            | integer | Werte: `≥0`          | Gesamtzahl aller übermittelten COVID-19-Fälle                        |
+| Todesfaelle_gesamt       | integer | Werte: `≥0`          | Gesamtzahl aller übermittelten COVID-19-Todesfälle                   |
+| Todesfaelle_neu          | integer | Werte: `≥0`          | Anzahl der am Berichtsdatum neu berichteten Todesfälle               |
+| Fall-Verstorbenen-Anteil | number  | Werte: `≥0`          | Anteil der COVID-19-Todesfälle an allen COVID-19-Fällen              |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 ### COVID-19-Todesfälle nach Altersgruppen 
@@ -124,14 +132,23 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 
 #### Variablen und Variablenausprägungen  
 
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Altersgruppen", "lang": "de"} -->
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Altersgruppe | Text | `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`,`80+`| Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren
-| Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
+Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Altersgruppen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json) hinterlegt:
+> [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable           | Typ     | Ausprägungen                                                     | Beschreibung                                                      |
+|:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                               | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
+| Altersgruppe       | string  | Werte: `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
+| Todesfaelle        | integer | Werte: `≥0`                                                      | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                      | Summe aller übermittelten Todesfälle                              |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
+
 
 ### COVID-19-Todesfälle nach Bundesländern
 
@@ -142,21 +159,29 @@ Im Datensatz werden die übermittelten Daten zu COVID-19-Todesfällen nach Bunde
 Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller über das Meldesystem gemäß Infektionsschutzgesetz an das RKI übermittelten COVID-19-Fälle ab. Das bedeutet, dass alle bis Sonntag 24:00 Uhr von den Gesundheitsämtern über die zuständigen Landesbehörden an das RKI übermittelten  COVID-19-Fälle im Datenstand enthalten sind. Die Daten werden wöchentlich vollständig neu erzeugt, dieser Datenstand ersetzt den Datenstand der Vorwoche.  
 
 - Woche (Datum)
-- Georgafische Region (Region_name, Region_id)
+- Georgafische Region (Region_Name, Region_Id)
 - Fallzahlen der übermittelten COVID-19-Todesfälle (Todesfaelle, Todesfaell_gesamt)
 
 
 #### Variablen und Variablenausprägungen  
 
-Die COVID-19-Todesfälle auf Bundesebene enthalten die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen:
+<!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Bundeslaender", "lang": "de"} -->
 
-| Variable |Typ | Ausprägung | Beschreibung| 
-| -----| ----- | ----- | ----- |
-| Datum | Datum | `jjjj-Www` | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Region_Name | Text |`Schleswig-Holstein` <br>...<br> `Thüringen` | Name der Region der die übermittelten Fälle zugeordnet werden |
-| Region_id | Text |  `01`, `02`, `03`, `04`, `05`, `06`, `07`, `08`, `09`, `10`, `11`,`12`, `13`, `14`, `15`, `16` |Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden | 
-| Todesfaelle | Natürliche Zahl | `≥ 0`| Anzahl der in der Kalenderwoche übermittelten Todesfälle |
-| Todesfaelle_gesamt | Natürliche Zahl | `≥ 0`| Summe aller übermittelten Todesfälle |
+Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Bundeslaender.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json) hinterlegt:
+> [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json)
+
+<!-- DATA_SCHEMA_TABLE_START -->
+| Variable           | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                         |
+|:-------------------|:--------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
+| Region_Name        | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Region der die übermittelten Fälle zugeordnet werden                                                                        |
+| Region_Id          | string  | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden |
+| Todesfaelle        | integer | Werte: `≥0`                                                                                     | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                                                     | Summe aller übermittelten Todesfälle                                                                                                 |
+
+<!-- DATA_SCHEMA_TABLE_END -->
+
+<!-- DATA_SCHEMA_SPECIFICATION_END -->
 
 
 ### Formatierung 
