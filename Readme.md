@@ -18,7 +18,9 @@ Nordufer 20
 ---
 
 **Zitieren**  
-Robert Koch-Institut (**2024**): COVID-19-Todesfälle in Deutschland, Berlin: Zenodo. [DOI: 10.5281/zenodo.14722955](https://doi.org/10.5281/zenodo.14722955)
+<!-- CITATION_START: {"citation_style": "apa"} -->
+Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14722955](https://doi.org/10.5281/zenodo.14722955)
+<!-- CITATION_END -->
 
 
 ## Informationen zum Datensatz und Entstehungskontext
