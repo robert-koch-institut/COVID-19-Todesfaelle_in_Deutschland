@@ -3916,7 +3916,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W46,Berlin,11,8,6301
 2024-W46,Brandenburg,12,17,7086
 2024-W46,Mecklenburg-Vorpommern,13,3,3016
-2024-W46,Sachsen,14,16,17598
+2024-W46,Sachsen,14,17,17599
 2024-W46,Sachsen-Anhalt,15,11,6759
 2024-W46,Thüringen,16,8,8811
 2024-W47,Schleswig-Holstein,01,2,3995
@@ -3932,7 +3932,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W47,Berlin,11,5,6306
 2024-W47,Brandenburg,12,13,7099
 2024-W47,Mecklenburg-Vorpommern,13,3,3019
-2024-W47,Sachsen,14,14,17612
+2024-W47,Sachsen,14,14,17613
 2024-W47,Sachsen-Anhalt,15,17,6776
 2024-W47,Thüringen,16,10,8821
 2024-W48,Schleswig-Holstein,01,4,3999
@@ -3948,7 +3948,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W48,Berlin,11,3,6309
 2024-W48,Brandenburg,12,7,7106
 2024-W48,Mecklenburg-Vorpommern,13,1,3020
-2024-W48,Sachsen,14,24,17636
+2024-W48,Sachsen,14,24,17637
 2024-W48,Sachsen-Anhalt,15,7,6783
 2024-W48,Thüringen,16,38,8859
 2024-W49,Schleswig-Holstein,01,1,4000
@@ -3964,7 +3964,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W49,Berlin,11,2,6311
 2024-W49,Brandenburg,12,17,7123
 2024-W49,Mecklenburg-Vorpommern,13,3,3023
-2024-W49,Sachsen,14,18,17654
+2024-W49,Sachsen,14,18,17655
 2024-W49,Sachsen-Anhalt,15,9,6792
 2024-W49,Thüringen,16,12,8871
 2024-W50,Schleswig-Holstein,01,4,4004
@@ -3980,7 +3980,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W50,Berlin,11,12,6323
 2024-W50,Brandenburg,12,3,7126
 2024-W50,Mecklenburg-Vorpommern,13,0,3023
-2024-W50,Sachsen,14,9,17663
+2024-W50,Sachsen,14,9,17664
 2024-W50,Sachsen-Anhalt,15,8,6800
 2024-W50,Thüringen,16,4,8875
 2024-W51,Schleswig-Holstein,01,1,4005
@@ -3996,7 +3996,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W51,Berlin,11,3,6326
 2024-W51,Brandenburg,12,2,7128
 2024-W51,Mecklenburg-Vorpommern,13,3,3026
-2024-W51,Sachsen,14,14,17677
+2024-W51,Sachsen,14,14,17678
 2024-W51,Sachsen-Anhalt,15,5,6805
 2024-W51,Thüringen,16,6,8881
 2024-W52,Schleswig-Holstein,01,1,4006
@@ -4012,7 +4012,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2024-W52,Berlin,11,1,6327
 2024-W52,Brandenburg,12,1,7129
 2024-W52,Mecklenburg-Vorpommern,13,3,3029
-2024-W52,Sachsen,14,8,17685
+2024-W52,Sachsen,14,9,17687
 2024-W52,Sachsen-Anhalt,15,1,6806
 2024-W52,Thüringen,16,3,8884
 2025-W01,Schleswig-Holstein,01,3,4009
@@ -4028,7 +4028,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W01,Berlin,11,12,6339
 2025-W01,Brandenburg,12,7,7136
 2025-W01,Mecklenburg-Vorpommern,13,2,3031
-2025-W01,Sachsen,14,4,17689
+2025-W01,Sachsen,14,4,17691
 2025-W01,Sachsen-Anhalt,15,4,6810
 2025-W01,Thüringen,16,21,8905
 2025-W02,Schleswig-Holstein,01,1,4010
@@ -4044,7 +4044,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W02,Berlin,11,1,6340
 2025-W02,Brandenburg,12,2,7138
 2025-W02,Mecklenburg-Vorpommern,13,3,3034
-2025-W02,Sachsen,14,6,17695
+2025-W02,Sachsen,14,6,17697
 2025-W02,Sachsen-Anhalt,15,4,6814
 2025-W02,Thüringen,16,30,8935
 2025-W03,Schleswig-Holstein,01,3,4013
@@ -4060,7 +4060,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W03,Berlin,11,9,6349
 2025-W03,Brandenburg,12,3,7141
 2025-W03,Mecklenburg-Vorpommern,13,2,3036
-2025-W03,Sachsen,14,21,17716
+2025-W03,Sachsen,14,22,17719
 2025-W03,Sachsen-Anhalt,15,12,6826
 2025-W03,Thüringen,16,8,8943
 2025-W04,Schleswig-Holstein,01,3,4016
@@ -4076,6 +4076,22 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W04,Berlin,11,6,6355
 2025-W04,Brandenburg,12,8,7149
 2025-W04,Mecklenburg-Vorpommern,13,1,3037
-2025-W04,Sachsen,14,13,17729
+2025-W04,Sachsen,14,13,17732
 2025-W04,Sachsen-Anhalt,15,3,6829
 2025-W04,Thüringen,16,19,8962
+2025-W05,Schleswig-Holstein,01,2,4018
+2025-W05,Hamburg,02,6,4244
+2025-W05,Niedersachsen,03,31,16425
+2025-W05,Bremen,04,0,1090
+2025-W05,Nordrhein-Westfalen,05,16,34654
+2025-W05,Hessen,06,14,14084
+2025-W05,Rheinland-Pfalz,07,3,7731
+2025-W05,Baden-Württemberg,08,6,20915
+2025-W05,Bayern,09,6,31356
+2025-W05,Saarland,10,3,2338
+2025-W05,Berlin,11,5,6360
+2025-W05,Brandenburg,12,3,7152
+2025-W05,Mecklenburg-Vorpommern,13,1,3038
+2025-W05,Sachsen,14,7,17739
+2025-W05,Sachsen-Anhalt,15,2,6831
+2025-W05,Thüringen,16,13,8975
