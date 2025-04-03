@@ -12,8 +12,8 @@ Nordufer 20
 
 [Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1; (Datenmanagement), [Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1; (Leitung) und [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326)&sup2; (Datenkuration)     
 
-&emsp;&sup1; Robert Koch-Institut | [Fachgebiet 32](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/FG32_node.html)   
-&emsp;&sup2; Robert Koch-Institut | [Fachgebiet MF 4](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html)  
+&emsp;&sup1; Robert Koch-Institut | [Fachgebiet 32](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html)   
+&emsp;&sup2; Robert Koch-Institut | [Fachgebiet MF 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html)  
   
 ---
 
@@ -26,9 +26,9 @@ Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Ze
 ## Informationen zum Datensatz und Entstehungskontext
 ### Administrative und organisatorische Angaben
 
-Im Datensatz "COVID-19-Todesfälle in Deutschland" werden die Todesfälle in Bezug auf COVID-19 in Deutschland als Open Data bereitgestellt. Die Bereitstellung erfolgt täglich. Die Daten werden nach Vorgaben des [Infektionsschutzgesetzes - IfSG -](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern ermittelt und an das Robert Koch-Institut (RKI) übermittelt.  Das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle ](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Abt3/FG32/FG32_node.html) ist verantwortlich für die fachlichen Anforderungen, Standardisierung und konzeptionelle Weiterentwicklung des Meldesystems gemäß IfSG.  
-Zuständig für den Betrieb des Meldesystems und die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten ist das Fachgebiet [IT4 | Development](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/IT4/it4_node.html) des RKI.  
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/DE/Content/Institut/OrgEinheiten/MFI/MF4/mf4_node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Im Datensatz "COVID-19-Todesfälle in Deutschland" werden die Todesfälle in Bezug auf COVID-19 in Deutschland als Open Data bereitgestellt. Die Bereitstellung erfolgt täglich. Die Daten werden nach Vorgaben des [Infektionsschutzgesetzes - IfSG -](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern ermittelt und an das Robert Koch-Institut (RKI) übermittelt.  Das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle ](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) ist verantwortlich für die fachlichen Anforderungen, Standardisierung und konzeptionelle Weiterentwicklung des Meldesystems gemäß IfSG.  
+Zuständig für den Betrieb des Meldesystems und die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten ist das Fachgebiet [IT4 | Development](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html) des RKI.  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
 
