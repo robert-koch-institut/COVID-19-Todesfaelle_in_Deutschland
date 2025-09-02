@@ -4535,7 +4535,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W33,Hessen,06,1,14201
 2025-W33,Rheinland-Pfalz,07,1,7761
 2025-W33,Baden-Württemberg,08,1,20984
-2025-W33,Bayern,09,3,31451
+2025-W33,Bayern,09,2,31450
 2025-W33,Saarland,10,1,2343
 2025-W33,Berlin,11,3,6406
 2025-W33,Brandenburg,12,0,7168
@@ -4551,7 +4551,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W34,Hessen,06,0,14201
 2025-W34,Rheinland-Pfalz,07,1,7762
 2025-W34,Baden-Württemberg,08,1,20985
-2025-W34,Bayern,09,3,31454
+2025-W34,Bayern,09,3,31453
 2025-W34,Saarland,10,1,2344
 2025-W34,Berlin,11,0,6406
 2025-W34,Brandenburg,12,0,7168
@@ -4559,3 +4559,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W34,Sachsen,14,0,17784
 2025-W34,Sachsen-Anhalt,15,0,6846
 2025-W34,Thüringen,16,0,9088
+2025-W35,Schleswig-Holstein,01,2,4039
+2025-W35,Hamburg,02,0,4295
+2025-W35,Niedersachsen,03,4,16542
+2025-W35,Bremen,04,0,1092
+2025-W35,Nordrhein-Westfalen,05,2,34770
+2025-W35,Hessen,06,2,14203
+2025-W35,Rheinland-Pfalz,07,3,7765
+2025-W35,Baden-Württemberg,08,0,20985
+2025-W35,Bayern,09,0,31453
+2025-W35,Saarland,10,0,2344
+2025-W35,Berlin,11,0,6406
+2025-W35,Brandenburg,12,0,7168
+2025-W35,Mecklenburg-Vorpommern,13,0,3046
+2025-W35,Sachsen,14,1,17785
+2025-W35,Sachsen-Anhalt,15,0,6846
+2025-W35,Thüringen,16,1,9089
