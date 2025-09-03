@@ -1,34 +1,55 @@
-Datensatzdokumentation
+<!-- HEADER_START: {"lang": "de"} -->
+
+
+Dokumentation  
 # COVID-19-Todesfälle in Deutschland
 
-[Robert Koch-Institut | RKI](http://www.rki.de)  
-Nordufer 20  
-13353 Berlin  
+<br> 
+<br> 
+<br> 
 
+[**Robert Koch-Institut**](http://www.rki.de/)
+
+<br> 
+
+**Beitragende**   
+[Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1;, [Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1;, & [Hannes Wünsche](https://orcid.org/0000-0002-8837-0326)&sup2;
+
+&emsp;&emsp;&sup1; [Robert Koch-Institut](http://www.rki.de/) | [Fachgebiet 32](https://www.rki.de/fg32)  
+&emsp;&emsp;&sup2; [Robert Koch-Institut](http://www.rki.de/) | [Fachgebiet MF 4](https://www.rki.de/mf4)
+
+<br> 
+
+**Zitieren**  
+Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17043757](https://doi.org/10.5281/zenodo.17043757)
 
 <br>
 
-**Beitragende**  
 
-[Alexander Ullrich](https://orcid.org/0000-0002-4894-6124)&sup1; (Datenmanagement), [Michaela Diercke](https://orcid.org/0000-0002-4678-1813)&sup1; (Leitung) und [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326)&sup2; (Datenkuration)     
+**Zusammenfassung**    
+Im Datensatz "COVID-19-Todesfälle in Deutschland" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.
 
-&emsp;&sup1; Robert Koch-Institut | [Fachgebiet 32](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html)   
-&emsp;&sup2; Robert Koch-Institut | [Fachgebiet MF 4](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html)  
-  
----
+<br>
 
-**Zitieren**  
-<!-- CITATION_START: {"citation_style": "apa"} -->
-Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17043757](https://doi.org/10.5281/zenodo.17043757)
-<!-- CITATION_END -->
+**Inhaltsverzeichnis** 
+<!-- TOC_START: {"heading_depth": 2} -->
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+<!-- TOC_END -->
+
+<br>
+
+<!-- HEADER_END -->
+
 
 
 ## Informationen zum Datensatz und Entstehungskontext
 ### Administrative und organisatorische Angaben
 
-Im Datensatz "COVID-19-Todesfälle in Deutschland" werden die Todesfälle in Bezug auf COVID-19 in Deutschland als Open Data bereitgestellt. Die Bereitstellung erfolgt täglich. Die Daten werden nach Vorgaben des [Infektionsschutzgesetzes - IfSG -](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern ermittelt und an das Robert Koch-Institut (RKI) übermittelt.  Das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle ](https://www.rki.de/DE/Institut/Organisation/Abteilungen/Abteilung-3/FG32/fg32-surveillance-und-elektronisches-melde-und-informationssystem-demis-oegd-kontaktstelle-node.html) ist verantwortlich für die fachlichen Anforderungen, Standardisierung und konzeptionelle Weiterentwicklung des Meldesystems gemäß IfSG.  
-Zuständig für den Betrieb des Meldesystems und die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten ist das Fachgebiet [IT4 | Development](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/IT4/it4-softwarearchitektur-und-entwicklung-node.html) des RKI.  
-Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/DE/Institut/Organisation/Abteilungen/MFI/MF4/mf4-fach-und-forschungsdatenmanagement-node.html). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
+Im Datensatz "COVID-19-Todesfälle in Deutschland" werden die Todesfälle in Bezug auf COVID-19 in Deutschland als Open Data bereitgestellt. Die Bereitstellung erfolgt täglich. Die Daten werden nach Vorgaben des [Infektionsschutzgesetzes - IfSG -](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern ermittelt und an das Robert Koch-Institut (RKI) übermittelt.  Das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle ](https://www.rki.de/fg32) ist verantwortlich für die fachlichen Anforderungen, Standardisierung und konzeptionelle Weiterentwicklung des Meldesystems gemäß IfSG.  
+Zuständig für den Betrieb des Meldesystems und die Verarbeitung und Aufbereitung der im Meldesystem vorliegenden Rohdaten ist das Fachgebiet [IT4 | Development](https://www.rki.de/it4) des RKI.  
+Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagement der (Meta-)Daten erfolgen durch das Fachgebiet [MF 4 | Informations- und Forschungsdatenmanagement](https://www.rki.de/mf4). Fragen zum Datenmanagement und zur Publikationsinfrastruktur können an das Open Data Team des Fachgebiets MF4 unter [OpenData@rki.de](mailto:OpenData@rki.de) gerichtet werden.  
 
 ### Entstehungskontext
 
@@ -41,7 +62,7 @@ Das [Infektionsschutzgesetz](https://www.gesetze-im-internet.de/ifsg/index.html)
 #### Meldepflicht
 Dem Gesundheitsamt wird gemäß § 6 Abs. 1 Satz 1 Nr. 1 Buchst. t IfSG der Krankheitsverdacht, die Erkrankung sowie der Tod in Bezug auf eine Coronavirus-Krankheit-2019 (COVID-19) sowie gemäß § 7 Abs. 1 Nr. 44a IfSG der direkte oder indirekte Nachweis von Severe-Acute-Respiratory-Syndrome-Coronavirus-2 (SARS-CoV-2), soweit er auf eine akute Infektion hinweist, namentlich gemeldet. 
 
-Die Meldung muss unverzüglich erfolgen und dem zuständigen Gesundheitsamt spätestens 24 Stunden, nachdem der Meldende Kenntnis erlangt hat, vorliegen. Die Meldungen erfolgen zunehmend elektronisch (siehe Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz, [DEMIS](www.rki.de/demis).
+Die Meldung muss unverzüglich erfolgen und dem zuständigen Gesundheitsamt spätestens 24 Stunden, nachdem der Meldende Kenntnis erlangt hat, vorliegen. Die Meldungen erfolgen zunehmend elektronisch (siehe Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz, [DEMIS](https://www.rki.de/demis).
 
 #### Übermittlung von COVID-19-Fällen an das RKI
 
@@ -248,7 +269,7 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
  
 ### Lizenz  
 
-Der Datensatz "COVID-19-Todesfälle in Deutschland" ist lizenziert unter  der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
+Der Datensatz "COVID-19-Todesfälle in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
