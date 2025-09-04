@@ -9,7 +9,7 @@
     "descriptions": [
       {
         "language": "DE (German)",
-        "text": "Im Datensatz 'COVID-19-Todesfälle in Deutschland' werden die Todesfälle in Bezug auf COVID-19 in Deutschland bereitgestellt. Darüber hinaus wird neben der Anzahl der übermittelten Todesfälle der Fall-Verstorbenen-Anteil berechnet.\nAngaben zum Tod zählen zu den melde- und übermittlungspflichtigen Inhalten. Bei der Ermittlung von Todesfällen und der Bewertung der entsprechenden Informationen in den Gesundheitsämtern unterschiedlich vorgegangen. In der Folge könnte es einerseits zu einer Unterschätzung der Anzahl der Todesfälle, andererseits zu einer Überschätzung des Anteils der Verstorbenen einer Infektionskrankheit kommen. Ausführlich Hinweise zur Datenerhebung und Interpretation können der Datensatzdokumentation entnommen werden."
+        "text": "Im Datensatz \"COVID-19-Todesfälle in Deutschland\" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland."
       }
     ],
     "titles": [
@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.17043757",
+        "identifier": "10.5281/zenodo.17051680",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -87,7 +87,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-09-03"
+      "version": "2025-09-04"
     },
     "webpage": "https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland/",
     "contributors": [
@@ -103,17 +103,10 @@
             ]
           }
         ],
-        "nameType": "Personal",
-        "personal": {
-          "type": "Project leader",
-          "givenName": "Michaela",
-          "familyName": "Diercke",
-          "identifiers": [
-            {
-              "identifier": "0000-0002-4678-1813",
-              "scheme": "ORCID"
-            }
-          ]
+        "nameType": "Organisational",
+        "organisational": {
+          "name": "Robert Koch-Institut",
+          "type": "Creator/Author"
         }
       },
       {
@@ -155,12 +148,12 @@
         ],
         "nameType": "Personal",
         "personal": {
-          "type": "Data curator",
-          "givenName": "Hannes",
-          "familyName": "Wünsche",
+          "type": "Project leader",
+          "givenName": "Michaela",
+          "familyName": "Diercke",
           "identifiers": [
             {
-              "identifier": "0000-0002-8837-0326",
+              "identifier": "0000-0002-4678-1813",
               "scheme": "ORCID"
             }
           ]
@@ -178,10 +171,17 @@
             ]
           }
         ],
-        "nameType": "Organisational",
-        "organisational": {
-          "name": "Robert Koch-Institut",
-          "type": "Creator/Author"
+        "nameType": "Personal",
+        "personal": {
+          "type": "Data curator",
+          "givenName": "Hannes",
+          "familyName": "Wünsche",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-8837-0326",
+              "scheme": "ORCID"
+            }
+          ]
         }
       }
     ],

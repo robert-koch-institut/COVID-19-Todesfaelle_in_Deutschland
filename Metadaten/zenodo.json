@@ -1,6 +1,6 @@
 {
   "title": "COVID-19-Todesfälle in Deutschland",
-  "description": "<p>Im Datensatz 'COVID-19-Todesfälle in Deutschland' werden die Todesfälle in Bezug auf COVID-19 in Deutschland bereitgestellt. Darüber hinaus wird neben der Anzahl der übermittelten Todesfälle der Fall-Verstorbenen-Anteil berechnet.<br />\nAngaben zum Tod zählen zu den melde- und übermittlungspflichtigen Inhalten. Bei der Ermittlung von Todesfällen und der Bewertung der entsprechenden Informationen in den Gesundheitsämtern unterschiedlich vorgegangen. In der Folge könnte es einerseits zu einer Unterschätzung der Anzahl der Todesfälle, andererseits zu einer Überschätzung des Anteils der Verstorbenen einer Infektionskrankheit kommen. Ausführlich Hinweise zur Datenerhebung und Interpretation können der Datensatzdokumentation entnommen werden.</p>\n",
+  "description": "<p>Im Datensatz &quot;COVID-19-Todesfälle in Deutschland&quot; des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>\n",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -9,16 +9,16 @@
   ],
   "contributors": [
     {
-      "name": "Diercke, Michaela",
-      "affiliation": "Robert Koch-Institut",
-      "type": "ProjectLeader",
-      "orcid": "0000-0002-4678-1813"
-    },
-    {
       "name": "Ullrich, Alexander",
       "affiliation": "Robert Koch-Institut",
       "type": "DataManager",
       "orcid": "0000-0002-4894-6124"
+    },
+    {
+      "name": "Diercke, Michaela",
+      "affiliation": "Robert Koch-Institut",
+      "type": "ProjectLeader",
+      "orcid": "0000-0002-4678-1813"
     },
     {
       "name": "Wünsche, Hannes",
@@ -36,8 +36,8 @@
     "Open Data",
     "RKI"
   ],
-  "publication_date": "2025-09-03",
-  "version": "2025-09-03",
+  "publication_date": "2025-09-04",
+  "version": "2025-09-04",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -67,8 +67,8 @@
   ],
   "dates": [
     {
-      "start": "2025-09-03T09:42:17+02:00",
-      "end": "2025-09-03T09:42:17+02:00",
+      "start": "2025-09-04T07:30:13+02:00",
+      "end": "2025-09-04T07:30:13+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
