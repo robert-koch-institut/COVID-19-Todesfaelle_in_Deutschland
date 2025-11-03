@@ -21,7 +21,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17505068](https://doi.org/10.5281/zenodo.17505068)
+Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17510365](https://doi.org/10.5281/zenodo.17510365)
 
 <br>
 
