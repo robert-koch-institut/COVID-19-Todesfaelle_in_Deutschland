@@ -10,7 +10,7 @@ abstract: >-
   Altersgruppen und Bundesländern und wird ergänzt durch den
   Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur
   Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.
-date-released: '2025-11-10'
+date-released: '2025-11-11'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -26,8 +26,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland/
 license: CC-BY-4.0
-doi: 10.5281/zenodo.17568496
-version: '2025-11-10T09:17:25+01:00'
+doi: 10.5281/zenodo.17577815
+version: '2025-11-11T07:30:29+01:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
