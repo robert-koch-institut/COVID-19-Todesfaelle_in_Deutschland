@@ -4672,7 +4672,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W41,Sachsen-Anhalt,15,0,6849
 2025-W41,Thüringen,16,1,9092
 2025-W42,Schleswig-Holstein,01,1,4042
-2025-W42,Hamburg,02,4,4307
+2025-W42,Hamburg,02,5,4308
 2025-W42,Niedersachsen,03,4,16579
 2025-W42,Bremen,04,0,1095
 2025-W42,Nordrhein-Westfalen,05,20,34844
@@ -4688,7 +4688,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W42,Sachsen-Anhalt,15,0,6849
 2025-W42,Thüringen,16,1,9093
 2025-W43,Schleswig-Holstein,01,3,4045
-2025-W43,Hamburg,02,2,4309
+2025-W43,Hamburg,02,2,4310
 2025-W43,Niedersachsen,03,5,16584
 2025-W43,Bremen,04,1,1096
 2025-W43,Nordrhein-Westfalen,05,14,34858
@@ -4704,7 +4704,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W43,Sachsen-Anhalt,15,0,6849
 2025-W43,Thüringen,16,0,9093
 2025-W44,Schleswig-Holstein,01,3,4048
-2025-W44,Hamburg,02,2,4311
+2025-W44,Hamburg,02,2,4312
 2025-W44,Niedersachsen,03,4,16588
 2025-W44,Bremen,04,1,1097
 2025-W44,Nordrhein-Westfalen,05,12,34870
@@ -4720,7 +4720,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W44,Sachsen-Anhalt,15,3,6852
 2025-W44,Thüringen,16,3,9096
 2025-W45,Schleswig-Holstein,01,2,4050
-2025-W45,Hamburg,02,4,4315
+2025-W45,Hamburg,02,4,4316
 2025-W45,Niedersachsen,03,5,16593
 2025-W45,Bremen,04,1,1098
 2025-W45,Nordrhein-Westfalen,05,7,34877
@@ -4736,7 +4736,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W45,Sachsen-Anhalt,15,2,6854
 2025-W45,Thüringen,16,0,9096
 2025-W46,Schleswig-Holstein,01,3,4053
-2025-W46,Hamburg,02,2,4317
+2025-W46,Hamburg,02,2,4318
 2025-W46,Niedersachsen,03,9,16602
 2025-W46,Bremen,04,0,1098
 2025-W46,Nordrhein-Westfalen,05,14,34891
@@ -4752,7 +4752,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W46,Sachsen-Anhalt,15,0,6854
 2025-W46,Thüringen,16,1,9097
 2025-W47,Schleswig-Holstein,01,2,4055
-2025-W47,Hamburg,02,6,4323
+2025-W47,Hamburg,02,6,4324
 2025-W47,Niedersachsen,03,7,16609
 2025-W47,Bremen,04,0,1098
 2025-W47,Nordrhein-Westfalen,05,20,34911
@@ -4768,7 +4768,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W47,Sachsen-Anhalt,15,2,6856
 2025-W47,Thüringen,16,2,9099
 2025-W48,Schleswig-Holstein,01,4,4059
-2025-W48,Hamburg,02,2,4325
+2025-W48,Hamburg,02,2,4326
 2025-W48,Niedersachsen,03,5,16614
 2025-W48,Bremen,04,1,1099
 2025-W48,Nordrhein-Westfalen,05,11,34922
@@ -4784,7 +4784,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W48,Sachsen-Anhalt,15,1,6857
 2025-W48,Thüringen,16,2,9101
 2025-W49,Schleswig-Holstein,01,1,4060
-2025-W49,Hamburg,02,2,4327
+2025-W49,Hamburg,02,2,4328
 2025-W49,Niedersachsen,03,4,16618
 2025-W49,Bremen,04,0,1099
 2025-W49,Nordrhein-Westfalen,05,4,34926
@@ -4800,8 +4800,8 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W49,Sachsen-Anhalt,15,4,6861
 2025-W49,Thüringen,16,5,9106
 2025-W50,Schleswig-Holstein,01,0,4060
-2025-W50,Hamburg,02,3,4330
-2025-W50,Niedersachsen,03,13,16631
+2025-W50,Hamburg,02,3,4331
+2025-W50,Niedersachsen,03,12,16630
 2025-W50,Bremen,04,2,1101
 2025-W50,Nordrhein-Westfalen,05,12,34938
 2025-W50,Hessen,06,3,14274
@@ -4815,3 +4815,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W50,Sachsen,14,6,17818
 2025-W50,Sachsen-Anhalt,15,9,6870
 2025-W50,Thüringen,16,6,9112
+2025-W51,Schleswig-Holstein,01,2,4062
+2025-W51,Hamburg,02,6,4337
+2025-W51,Niedersachsen,03,13,16643
+2025-W51,Bremen,04,2,1103
+2025-W51,Nordrhein-Westfalen,05,10,34948
+2025-W51,Hessen,06,9,14283
+2025-W51,Rheinland-Pfalz,07,1,7803
+2025-W51,Baden-Württemberg,08,9,21085
+2025-W51,Bayern,09,18,31576
+2025-W51,Saarland,10,1,2352
+2025-W51,Berlin,11,4,6446
+2025-W51,Brandenburg,12,2,7198
+2025-W51,Mecklenburg-Vorpommern,13,0,3053
+2025-W51,Sachsen,14,15,17833
+2025-W51,Sachsen-Anhalt,15,3,6873
+2025-W51,Thüringen,16,5,9117
