@@ -2,6 +2,7 @@
 
 
 Dokumentation  
+
 # COVID-19-Todesfälle in Deutschland
 
 <br> 
@@ -21,7 +22,7 @@ Dokumentation
 <br> 
 
 **Zitieren**  
-Robert Koch-Institut. (2025). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18125829](https://doi.org/10.5281/zenodo.18125829)
+Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18125829](https://doi.org/10.5281/zenodo.18125829)
 
 <br>
 
@@ -31,11 +32,12 @@ Im Datensatz "COVID-19-Todesfälle in Deutschland" des Robert Koch-Instituts wer
 
 <br>
 
-**Inhaltsverzeichnis** 
+**Inhaltsverzeichnis**  
+
 <!-- TOC_START: {"heading_depth": 2} -->
-  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)
-  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)
-  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)
+  - [Informationen zum Datensatz und Entstehungskontext](#informationen-zum-datensatz-und-entstehungskontext)  
+  - [Aufbau und Inhalt des Datensatzes](#aufbau-und-inhalt-des-datensatzes)  
+  - [Hinweise zur Nachnutzung der Daten](#hinweise-zur-nachnutzung-der-daten)  
 <!-- TOC_END -->
 
 <br>
@@ -161,12 +163,12 @@ Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koc
 > [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable           | Typ     | Ausprägungen                                                     | Beschreibung                                                      |
-|:-------------------|:--------|:-----------------------------------------------------------------|:------------------------------------------------------------------|
-| Datum              | date    | Format: `YYYY-Www`                                               | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
-| Altersgruppe       | string  | Werte: `00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
-| Todesfaelle        | integer | Werte: `≥0`                                                      | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
-| Todesfaelle_gesamt | integer | Werte: `≥0`                                                      | Summe aller übermittelten Todesfälle                              |
+| Variable           | Typ     | Ausprägungen                                                        | Beschreibung                                                      |
+|:-------------------|:--------|:--------------------------------------------------------------------|:------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                                  | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden |
+| Altersgruppe       | string  | Werte:<br>`00+`, `00-04`, `05-14`, `15-34`, `35-59`, `60-79`, `80+` | Altersgruppe der übermittelten COVID-19-Todesfälle in Jahren      |
+| Todesfaelle        | integer | Werte: `≥0`                                                         | Anzahl der in der Kalenderwoche übermittelten Todesfälle          |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                         | Summe aller übermittelten Todesfälle                              |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -194,13 +196,13 @@ Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koc
 > [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
-| Variable           | Typ     | Ausprägungen                                                                                    | Beschreibung                                                                                                                         |
-|:-------------------|:--------|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| Datum              | date    | Format: `YYYY-Www`                                                                              | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
-| Region_Name        | string  | Werte: `Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Region der die übermittelten Fälle zugeordnet werden                                                                        |
-| Region_Id          | string  | Werte: `01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden |
-| Todesfaelle        | integer | Werte: `≥0`                                                                                     | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
-| Todesfaelle_gesamt | integer | Werte: `≥0`                                                                                     | Summe aller übermittelten Todesfälle                                                                                                 |
+| Variable           | Typ     | Ausprägungen                                                                                       | Beschreibung                                                                                                                         |
+|:-------------------|:--------|:---------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| Datum              | date    | Format: `YYYY-Www`                                                                                 | Kalenderwoche in der die Todesfälle an das RKI übermittelt worden                                                                    |
+| Region_Name        | string  | Werte:<br>`Baden-Württemberg`, `Bayern`, `Berlin`, `Brandenburg`, `Bremen`, `Hamburg`, `Hessen`, … | Name der Region der die übermittelten Fälle zugeordnet werden                                                                        |
+| Region_Id          | string  | Werte:<br>`01`, `02`, `03`, `04`, `05`, `06`, `07`, …                                              | Identifikationsnummer der Region, basierend auf dem Amtlichen Gemeindeschlüssel (AGS), der die übermittelten Fälle zugeordnet werden |
+| Todesfaelle        | integer | Werte: `≥0`                                                                                        | Anzahl der in der Kalenderwoche übermittelten Todesfälle                                                                             |
+| Todesfaelle_gesamt | integer | Werte: `≥0`                                                                                        | Summe aller übermittelten Todesfälle                                                                                                 |
 
 <!-- DATA_SCHEMA_TABLE_END -->
 
@@ -225,7 +227,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/zenodo.json)  
 
@@ -236,8 +238,8 @@ In der zenodo.json ist neben dem Publikationsdatum (`"publication_date"`) auch d
     {
       "start": "2023-09-11T15:00:21+02:00",
       "end": "2023-09-11T15:00:21+02:00",
-      "type": "Collected",
-      "description": "Date when the Dataset was created"
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ],
 ```    
@@ -266,6 +268,8 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 - https://github.com/robert-koch-institut  
 - https://gitlab.opencode.de/robert-koch-institut  
 - https://edoc.rki.de/  
+
+
  
 ### Lizenz  
 
