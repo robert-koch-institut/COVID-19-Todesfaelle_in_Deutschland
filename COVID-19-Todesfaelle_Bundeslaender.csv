@@ -4820,7 +4820,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W51,Niedersachsen,03,13,16643
 2025-W51,Bremen,04,2,1103
 2025-W51,Nordrhein-Westfalen,05,10,34948
-2025-W51,Hessen,06,9,14283
+2025-W51,Hessen,06,8,14282
 2025-W51,Rheinland-Pfalz,07,1,7803
 2025-W51,Baden-Württemberg,08,9,21085
 2025-W51,Bayern,09,18,31576
@@ -4836,7 +4836,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W52,Niedersachsen,03,7,16650
 2025-W52,Bremen,04,1,1104
 2025-W52,Nordrhein-Westfalen,05,4,34952
-2025-W52,Hessen,06,1,14284
+2025-W52,Hessen,06,1,14283
 2025-W52,Rheinland-Pfalz,07,4,7807
 2025-W52,Baden-Württemberg,08,2,21087
 2025-W52,Bayern,09,5,31581
@@ -4847,3 +4847,19 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W52,Sachsen,14,4,17837
 2025-W52,Sachsen-Anhalt,15,3,6876
 2025-W52,Thüringen,16,4,9121
+2026-W01,Schleswig-Holstein,01,4,4067
+2026-W01,Hamburg,02,1,4341
+2026-W01,Niedersachsen,03,6,16656
+2026-W01,Bremen,04,1,1105
+2026-W01,Nordrhein-Westfalen,05,10,34962
+2026-W01,Hessen,06,4,14287
+2026-W01,Rheinland-Pfalz,07,2,7809
+2026-W01,Baden-Württemberg,08,4,21091
+2026-W01,Bayern,09,6,31587
+2026-W01,Saarland,10,0,2352
+2026-W01,Berlin,11,0,6448
+2026-W01,Brandenburg,12,4,7203
+2026-W01,Mecklenburg-Vorpommern,13,0,3055
+2026-W01,Sachsen,14,6,17843
+2026-W01,Sachsen-Anhalt,15,3,6879
+2026-W01,Thüringen,16,3,9124
