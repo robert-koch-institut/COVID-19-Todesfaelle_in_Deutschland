@@ -4780,7 +4780,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W48,Berlin,11,4,6441
 2025-W48,Brandenburg,12,4,7193
 2025-W48,Mecklenburg-Vorpommern,13,0,3051
-2025-W48,Sachsen,14,4,17805
+2025-W48,Sachsen,14,5,17806
 2025-W48,Sachsen-Anhalt,15,1,6857
 2025-W48,Thüringen,16,2,9101
 2025-W49,Schleswig-Holstein,01,1,4060
@@ -4796,7 +4796,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W49,Berlin,11,0,6441
 2025-W49,Brandenburg,12,2,7195
 2025-W49,Mecklenburg-Vorpommern,13,1,3052
-2025-W49,Sachsen,14,8,17813
+2025-W49,Sachsen,14,8,17814
 2025-W49,Sachsen-Anhalt,15,4,6861
 2025-W49,Thüringen,16,5,9106
 2025-W50,Schleswig-Holstein,01,0,4060
@@ -4812,7 +4812,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W50,Berlin,11,1,6442
 2025-W50,Brandenburg,12,1,7196
 2025-W50,Mecklenburg-Vorpommern,13,1,3053
-2025-W50,Sachsen,14,6,17819
+2025-W50,Sachsen,14,6,17820
 2025-W50,Sachsen-Anhalt,15,9,6870
 2025-W50,Thüringen,16,6,9112
 2025-W51,Schleswig-Holstein,01,2,4062
@@ -4828,7 +4828,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W51,Berlin,11,4,6446
 2025-W51,Brandenburg,12,2,7198
 2025-W51,Mecklenburg-Vorpommern,13,0,3053
-2025-W51,Sachsen,14,17,17836
+2025-W51,Sachsen,14,17,17837
 2025-W51,Sachsen-Anhalt,15,3,6873
 2025-W51,Thüringen,16,5,9117
 2025-W52,Schleswig-Holstein,01,1,4063
@@ -4844,7 +4844,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2025-W52,Berlin,11,2,6448
 2025-W52,Brandenburg,12,1,7199
 2025-W52,Mecklenburg-Vorpommern,13,2,3055
-2025-W52,Sachsen,14,4,17840
+2025-W52,Sachsen,14,4,17841
 2025-W52,Sachsen-Anhalt,15,3,6876
 2025-W52,Thüringen,16,4,9121
 2026-W01,Schleswig-Holstein,01,4,4067
@@ -4860,7 +4860,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W01,Berlin,11,0,6448
 2026-W01,Brandenburg,12,4,7203
 2026-W01,Mecklenburg-Vorpommern,13,0,3055
-2026-W01,Sachsen,14,6,17846
+2026-W01,Sachsen,14,6,17847
 2026-W01,Sachsen-Anhalt,15,3,6879
 2026-W01,Thüringen,16,3,9124
 2026-W02,Schleswig-Holstein,01,0,4067
@@ -4876,7 +4876,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W02,Berlin,11,2,6450
 2026-W02,Brandenburg,12,3,7206
 2026-W02,Mecklenburg-Vorpommern,13,3,3058
-2026-W02,Sachsen,14,16,17862
+2026-W02,Sachsen,14,16,17863
 2026-W02,Sachsen-Anhalt,15,9,6888
 2026-W02,Thüringen,16,7,9131
 2026-W03,Schleswig-Holstein,01,5,4072
@@ -4892,7 +4892,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W03,Berlin,11,3,6453
 2026-W03,Brandenburg,12,6,7212
 2026-W03,Mecklenburg-Vorpommern,13,1,3059
-2026-W03,Sachsen,14,18,17880
+2026-W03,Sachsen,14,18,17881
 2026-W03,Sachsen-Anhalt,15,2,6890
 2026-W03,Thüringen,16,7,9138
 2026-W04,Schleswig-Holstein,01,0,4072
@@ -4908,6 +4908,22 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W04,Berlin,11,5,6458
 2026-W04,Brandenburg,12,4,7216
 2026-W04,Mecklenburg-Vorpommern,13,0,3059
-2026-W04,Sachsen,14,8,17888
+2026-W04,Sachsen,14,8,17889
 2026-W04,Sachsen-Anhalt,15,5,6895
 2026-W04,Thüringen,16,7,9145
+2026-W05,Schleswig-Holstein,01,1,4073
+2026-W05,Hamburg,02,3,4357
+2026-W05,Niedersachsen,03,11,16689
+2026-W05,Bremen,04,1,1107
+2026-W05,Nordrhein-Westfalen,05,10,35015
+2026-W05,Hessen,06,4,14312
+2026-W05,Rheinland-Pfalz,07,1,7830
+2026-W05,Baden-Württemberg,08,7,21126
+2026-W05,Bayern,09,12,31632
+2026-W05,Saarland,10,4,2359
+2026-W05,Berlin,11,3,6461
+2026-W05,Brandenburg,12,7,7223
+2026-W05,Mecklenburg-Vorpommern,13,1,3060
+2026-W05,Sachsen,14,10,17899
+2026-W05,Sachsen-Anhalt,15,1,6896
+2026-W05,Thüringen,16,2,9147
