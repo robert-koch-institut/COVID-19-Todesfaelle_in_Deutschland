@@ -22,10 +22,12 @@ Dokumentation
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.18692154](https://doi.org/10.5281/zenodo.18692154)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Im Datensatz "COVID-19-Todesfälle in Deutschland" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.
@@ -47,6 +49,7 @@ Im Datensatz "COVID-19-Todesfälle in Deutschland" des Robert Koch-Instituts wer
 
 
 ## Informationen zum Datensatz und Entstehungskontext
+
 ### Administrative und organisatorische Angaben
 
 Im Datensatz "COVID-19-Todesfälle in Deutschland" werden die Todesfälle in Bezug auf COVID-19 in Deutschland als Open Data bereitgestellt. Die Bereitstellung erfolgt täglich. Die Daten werden nach Vorgaben des [Infektionsschutzgesetzes - IfSG -](https://www.gesetze-im-internet.de/ifsg/index.html) von den Gesundheitsämtern ermittelt und an das Robert Koch-Institut (RKI) übermittelt.  Das [Fachgebiet 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle ](https://www.rki.de/fg32) ist verantwortlich für die fachlichen Anforderungen, Standardisierung und konzeptionelle Weiterentwicklung des Meldesystems gemäß IfSG.  
@@ -55,7 +58,7 @@ Die Veröffentlichung der Daten, die Datenkuration sowie das Qualitätsmanagemen
 
 ### Entstehungskontext
 
-Das Robert Koch-Institut ist ein Bundesinstitut im Geschäftsbereich des [Bundesministeriums für Gesundheit](https://www.bundesgesundheitsministerium.de/) (BMG) und ist die zentrale Einrichtung des Bundes auf dem Gebieten der Krankheitsüberwachung und -prävention sowie der anwendungsorientierten biomedizinischen Forschung. Es berät die zuständigen Bundesministerien, insbesondere das Bundesministerium für Gesundheit, und wirkt bei der Entwicklung von Normen und Standards mit. Wesentliche Aufgaben des RKI leiten sich aus dem [Infektionsschutzgesetz (IfSG)](https://www.gesetze-im-internet.de/ifsg/index.html) ab. Dazu gehört neben der in [§4 Abs. 1 IfSG](https://www.gesetze-im-internet.de/ifsg/__4.html) beschriebenen Aufgabe der „Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen“ auch die Erstellung von "Falldefinitionen für die Bewertung von Verdachts-, Erkrankungs- oder Todesfällen und Nachweisen von Krankheitserregern" (vgl. [§11 Abs. 2 IfSG](https://www.gesetze-im-internet.de/ifsg/__11.html)).
+Das Robert Koch-Institut ist ein Bundesinstitut im Geschäftsbereich des [Bundesministeriums für Gesundheit](https://www.bundesgesundheitsministerium.de/) (BMG) und ist die zentrale Einrichtung des Bundes auf dem Gebieten der Krankheitsüberwachung und -prävention sowie der anwendungsorientierten biomedizinischen Forschung. Es berät die zuständigen Bundesministerien, insbesondere das Bundesministerium für Gesundheit, und wirkt bei der Entwicklung von Normen und Standards mit. Wesentliche Aufgaben des RKI leiten sich aus dem [Infektionsschutzgesetz (IfSG)](https://www.gesetze-im-internet.de/ifsg/index.html) ab. Dazu gehört neben der in [§4 Abs. 1 IfSG](https://www.gesetze-im-internet.de/ifsg/__4.html) beschriebenen Aufgabe der "Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen" auch die Erstellung von "Falldefinitionen für die Bewertung von Verdachts-, Erkrankungs- oder Todesfällen und Nachweisen von Krankheitserregern" (vgl. [§11 Abs. 2 IfSG](https://www.gesetze-im-internet.de/ifsg/__11.html)).
 
 #### Infektionsschutzgesetz
 
@@ -73,11 +76,11 @@ COVID-19-Fälle, die die Falldefinition des RKI erfüllen, müssen vom zuständi
 #### Weiterverarbeitung der Daten
 
 Datengrundlage zur COVID-19-Todesfälle in Deutschland sind die an das RKI übermittelten COVID-19-Fälle. Detaillierte Dokumentation zur Erhebung der Daten zum Infektionsgeschehen ist im Datensatz [SARS-CoV-2-Infektionen in Deutschland](https://github.com/robert-koch-institut/SARS-CoV-2-Infektionen_in_Deutschland/blob/main/Aktuell_Deutschland_SarsCov2_Infektionen.csv) hinterlegt. 
-Die Summe der täglich neu berichteten Todesfälle ist im Datensatz "SARS-CoV-2-Infektionen in Deutschland" durch die Ausprägung NeuerTodesfall = `1` gekennzeichnet. Altere Datenstände lassen sich durch die Versionierung in Zenodo abrufen oder direkt über den Archivdatensatz beziehen:
+Die Summe der täglich neu berichteten Todesfälle ist im Datensatz "SARS-CoV-2-Infektionen in Deutschland" durch die Ausprägung NeuerTodesfall = `1` gekennzeichnet. Ältere Datenstände lassen sich durch die Versionierung in Zenodo abrufen oder direkt über den Archivdatensatz beziehen:
 
-> Robert Koch-Institut (2022): SARS-CoV-2 Infektionen in Deutschland, Berlin: Zenodo. [10.5281/zenodo.4681153](https://doi.org/10.5281/zenodo.4681153)
+> Robert Koch-Institut (2026): SARS-CoV-2 Infektionen in Deutschland, Berlin: Zenodo. [10.5281/zenodo.4681153](https://doi.org/10.5281/zenodo.4681153)
 
-> https://github.com/robert-koch-institut/SARS-CoV-2-Infektionen_in_Deutschland_Archiv
+> [https://github.com/robert-koch-institut/SARS-CoV-2-Infektionen_in_Deutschland_Archiv](https://github.com/robert-koch-institut/SARS-CoV-2-Infektionen_in_Deutschland_Archiv)
 
 Derzeit ist aufgrund des Fehlens eines Teils des Archivs die Anzahl der Todesfälle nach Berichtsdatum nicht vollständig möglich. An einer Vervollständigung des Archivs wird gearbeitet.
 
@@ -126,6 +129,7 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Deutschland", "lang": "de"} -->
 
 Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json) hinterlegt:
+
 > [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -144,7 +148,7 @@ Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-
 
 ### COVID-19-Todesfälle nach Altersgruppen 
 
-Neben den Daten nach Berichtsdatum auf Bundesebene, werden die übermittelten Daten zu COVID-19-Todesfällen nach Altersgruppen auf Bundesebene bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich den Daten [nach Berichtsdatum auf Bundesebene](#COVID-19-Todesfälle-nach-Berichtsdatum-auf-Bundesebene) kommen. 
+Neben den Daten nach Berichtsdatum auf Bundesebene, werden die übermittelten Daten zu COVID-19-Todesfällen nach Altersgruppen auf Bundesebene bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich den Daten [nach Berichtsdatum auf Bundesebene](#covid-19-todesfälle-nach-berichtsdatum-auf-bundesebene) kommen. 
 
 > [COVID-19-Todesfaelle_Altergsruppen.csv](/COVID-19-Todesfaelle_Altergsruppen.csv)
 
@@ -160,6 +164,7 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Altersgruppen", "lang": "de"} -->
 
 Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Altersgruppen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json) hinterlegt:
+
 > [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -177,7 +182,7 @@ Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koc
 
 ### COVID-19-Todesfälle nach Bundesländern
 
-Im Datensatz werden die übermittelten Daten zu COVID-19-Todesfällen nach Bundesländern bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich zu vorherigen Datenständen [nach Berichtsdatum auf Bundesebene](#COVID-19-Todesflle-nach-Berichtsdatum-auf-Bundesebene) kommen. 
+Im Datensatz werden die übermittelten Daten zu COVID-19-Todesfällen nach Bundesländern bereitgestellt. Da sich durch Korrekturen die Daten für zurückliegende Zeiträume ändern können, kann es zu abweichungen im Vergleich zu vorherigen Datenständen [nach Berichtsdatum auf Bundesebene](#covid-19-todesfälle-nach-berichtsdatum-auf-bundesebene) kommen. 
 
 > [COVID-19-Todesfaelle_Bundelaender.csv](/COVID-19-Todesfaelle_Bundelaender.csv)
 
@@ -193,6 +198,7 @@ Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Bundeslaender", "lang": "de"} -->
 
 Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Bundeslaender.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json) hinterlegt:
+
 > [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -211,15 +217,13 @@ Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koc
 
 ### Formatierung 
 
-Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma ",".
+Die Daten sind im Datensatz als kommaseparierte .csv Datei enthalten. Der verwendete Zeichensatz der .csv Datei ist UTF-8. Trennzeichen der einzelnen Werte ist ein Komma `,`.
 
 - Zeichensatz: UTF-8  
-- .csv Trennzeichen: Komma ","  
+- .csv Trennzeichen: Komma `,`  
 
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -264,13 +268,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
 
 
- 
+
 ### Lizenz  
 
 Der Datensatz "COVID-19-Todesfälle in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
