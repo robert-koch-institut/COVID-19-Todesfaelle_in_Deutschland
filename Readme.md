@@ -23,7 +23,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa"} -->  
-Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19602687](https://doi.org/10.5281/zenodo.19602687)
+Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19625224](https://doi.org/10.5281/zenodo.19625224)
 <!-- CITATION_END -->
 
 
