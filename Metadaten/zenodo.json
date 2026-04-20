@@ -1,6 +1,15 @@
 {
   "title": "COVID-19-Todesfälle in Deutschland",
-  "description": "<p>Im Datensatz &quot;COVID-19-Todesfälle in Deutschland&quot; des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>\n",
+  "description": "<p>Im Datensatz \"COVID-19-Todesfälle in Deutschland\" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -34,55 +43,33 @@
     "Deutschland",
     "Germany",
     "Open Data",
-    "RKI"
+    "RKI",
+    "Gesundheitsberichterstattung",
+    "Epidemiologie",
+    "Public health surveillance",
+    "Epidemiology"
   ],
-  "publication_date": "2026-04-17",
-  "version": "2026-04-17",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "CC-BY-4.0",
-  "language": "deu",
-  "communities": [
+  "subjects": [],
+  "publication_date": "2026-04-20",
+  "version": "2026-04-20",
+  "related_identifiers": [
     {
-      "identifier": "robertkochinstitut"
-    }
-  ],
-  "subjects": [
-    {
-      "term": "Gesundheitsberichterstattung",
-      "identifier": "info:ddc/22/de//614.42"
+      "identifier": "https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
     },
     {
-      "term": "Epidemiologie",
-      "identifier": "info:ddc/22/de//614.4"
-    },
-    {
-      "term": "Public health surveillance",
-      "identifier": "info:ddc/22/eng//614.42"
-    },
-    {
-      "term": "Epidemiology",
-      "identifier": "info:ddc/22/eng//614.4"
+      "identifier": "https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland",
+      "relation": "isDescribedBy",
+      "resource_type": "other"
     }
   ],
   "dates": [
     {
-      "start": "2026-04-17T07:30:10+02:00",
-      "end": "2026-04-17T07:30:10+02:00",
+      "start": "2026-04-20T10:08:39+02:00",
+      "end": "2026-04-20T10:08:39+02:00",
       "type": "Created",
       "description": "Date when the published data was created"
-    }
-  ],
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland",
-      "resource_type": "dataset"
-    },
-    {
-      "relation": "isDescribedBy",
-      "identifier": "https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland/",
-      "resource_type": "other"
     }
   ]
 }

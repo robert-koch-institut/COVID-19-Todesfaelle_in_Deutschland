@@ -1,15 +1,21 @@
 {
   "title": "COVID-19-Todesfälle in Deutschland",
-  "description": "<p>Im Datensatz &quot;COVID-19-Todesfälle in Deutschland&quot; des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>\n",
+  "description": "<p>Im Datensatz \"COVID-19-Todesfälle in Deutschland\" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-04-17",
+  "publication_date": "2026-04-20",
   "creators": [
     {
       "person_or_org": {
         "type": "organizational",
-        "name": "Robert Koch-Institut"
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
       }
     }
   ],
@@ -82,10 +88,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-04-17",
+  "version": "2026-04-20",
   "dates": [
     {
-      "date": "2026-04-17T07:30:10+02:00",
+      "date": "2026-04-20T10:08:39+02:00",
       "type": {
         "id": "created"
       },
@@ -135,29 +141,23 @@
     },
     {
       "subject": "RKI"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Epidemiologie"
+    },
+    {
+      "subject": "Public health surveillance"
+    },
+    {
+      "subject": "Epidemiology"
     }
   ],
   "custom_fields": {
     "legacy:communities": [
       "robertkochinstitut"
-    ],
-    "legacy:subjects": [
-      {
-        "term": "Gesundheitsberichterstattung",
-        "identifier": "info:ddc/22/de//614.42"
-      },
-      {
-        "term": "Epidemiologie",
-        "identifier": "info:ddc/22/de//614.4"
-      },
-      {
-        "term": "Public health surveillance",
-        "identifier": "info:ddc/22/eng//614.42"
-      },
-      {
-        "term": "Epidemiology",
-        "identifier": "info:ddc/22/eng//614.4"
-      }
     ]
   }
 }
