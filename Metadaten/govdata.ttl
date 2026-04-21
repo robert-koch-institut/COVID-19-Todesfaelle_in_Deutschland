@@ -5,9 +5,9 @@ PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-<https://zenodo.org/record/19660126>
+<https://zenodo.org/record/19675965>
     a dcat:Dataset ;
-    dcatde:contributor <https://zenodo.org/record/19660126#author-1> ;
+    dcatde:contributor <https://zenodo.org/record/19675965#author-1> ;
     dcatde:contributorID <http://dcat-ap.de/def/contributors/robertKochInstitut> ;
     dcatde:maintainer
         [
@@ -16,9 +16,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             foaf:name "Robert Koch-Institut | Open Data Team" ;
         ] ;
     dct:description "<p>Im Datensatz \"COVID-19-Todesfälle in Deutschland\" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>" ;
-    dct:issued "2026-04-20T10:08:39+02:00"^^xsd:dateTime ;
+    dct:issued "2026-04-21T08:57:23+02:00"^^xsd:dateTime ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-20T10:08:39+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-21T08:57:23+02:00"^^xsd:dateTime ;
     dct:publisher
         [
             a foaf:Organization ;
@@ -37,9 +37,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
             vcard:hasStreetAddress "Nordufer 20" ;
         ] ;
     dcat:distribution
-        <https://zenodo.org/record/19660126#dist-01-github> ,
-        <https://zenodo.org/record/19660126#dist-02-zenodo> ,
-        <https://zenodo.org/record/19660126#dist-03-zenodo-documentation> ;
+        <https://zenodo.org/record/19675965#dist-01-github> ,
+        <https://zenodo.org/record/19675965#dist-02-zenodo> ,
+        <https://zenodo.org/record/19675965#dist-03-zenodo-documentation> ;
     dcat:keyword
         "COVID-19" ,
         "Deutschland" ,
@@ -59,44 +59,44 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <http://publications.europa.eu/resource/authority/data-theme/TECH> ;
 .
 
-<https://zenodo.org/record/19660126#author-1>
+<https://zenodo.org/record/19675965#author-1>
     a foaf:Organization ;
     foaf:name "Robert Koch-Institut" ;
 .
 
-<https://zenodo.org/record/19660126#dist-01-github>
+<https://zenodo.org/record/19675965#dist-01-github>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19660126" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19675965" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-20T10:08:39+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-21T08:57:23+02:00"^^xsd:dateTime ;
     dct:title "Github - COVID-19-Todesfälle in Deutschland" ;
     dcat:accessURL <https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland> ;
 .
 
-<https://zenodo.org/record/19660126#dist-02-zenodo>
+<https://zenodo.org/record/19675965#dist-02-zenodo>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19660126" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19675965" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Zenodo ist eine europäische Plattform, die es Forschern, Wissenschaftlern und anderen Personen ermöglicht, Forschungsdaten, Publikationen, Präsentationen und andere wissenschaftliche Inhalte kostenlos zu teilen und zu veröffentlichen. Eine der Hauptstärken von Zenodo ist die Bereitstellung der Daten nach den FAIR Prinzipien, Daten sind langzeitarchiviert und wissenschaftlich zitierbar, um den Datenaustausch und die Zusammenarbeit zwischen Forschern zu erleichtern." ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-20T10:08:39+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-21T08:57:23+02:00"^^xsd:dateTime ;
     dct:title "Zenodo - COVID-19-Todesfälle in Deutschland" ;
-    dcat:accessURL <https://zenodo.org/record/19660126> ;
+    dcat:accessURL <https://zenodo.org/record/19675965> ;
 .
 
-<https://zenodo.org/record/19660126#dist-03-zenodo-documentation>
+<https://zenodo.org/record/19675965#dist-03-zenodo-documentation>
     a dcat:Distribution ;
-    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19660126" ;
+    dcatde:licenseAttributionByText "Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19675965" ;
     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
     dct:description "Die Datensatzdokumentation enthält Informationen und Hinweise zum Entstehungskontext, dem Aufbau und der Nachnutzung der im Datensatz 'COVID-19-Todesfälle in Deutschland' bereitgestellten Daten" ;
     dct:format <http://publications.europa.eu/resource/authority/file-type/PDF> ;
     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
     dct:license <https://dcat-ap.de/def/licenses/cc-by/4.0> ;
-    dct:modified "2026-04-20T10:08:39+02:00"^^xsd:dateTime ;
+    dct:modified "2026-04-21T08:57:23+02:00"^^xsd:dateTime ;
     dct:title "[Dokumentation]_COVID-19-Todesfaelle_in_Deutschland.pdf" ;
-    dcat:accessURL <https://zenodo.org/record/19660126/files/[Dokumentation]_COVID-19-Todesfaelle_in_Deutschland.pdf> ;
+    dcat:accessURL <https://zenodo.org/record/19675965/files/[Dokumentation]_COVID-19-Todesfaelle_in_Deutschland.pdf> ;
 .
