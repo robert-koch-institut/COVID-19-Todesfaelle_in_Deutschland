@@ -8,7 +8,7 @@ abstract: Im Datensatz "COVID-19-Todesfälle in Deutschland" des Robert Koch-Ins
   und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz
   ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung
   von COVID-19 in Deutschland.
-date-released: '2026-04-21'
+date-released: '2026-04-22'
 keywords:
   - COVID-19
   - SARS-CoV-2
@@ -24,8 +24,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19675965
-version: '2026-04-21T08:57:23+02:00'
+doi: 10.5281/zenodo.19689416
+version: '2026-04-22T08:13:17+02:00'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
