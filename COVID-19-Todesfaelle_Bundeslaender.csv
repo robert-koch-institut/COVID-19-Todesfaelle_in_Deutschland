@@ -4905,7 +4905,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W04,Baden-Württemberg,08,9,21120
 2026-W04,Bayern,09,6,31620
 2026-W04,Saarland,10,2,2355
-2026-W04,Berlin,11,5,6457
+2026-W04,Berlin,11,6,6458
 2026-W04,Brandenburg,12,4,7216
 2026-W04,Mecklenburg-Vorpommern,13,0,3059
 2026-W04,Sachsen,14,8,17886
@@ -4921,7 +4921,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W05,Baden-Württemberg,08,7,21127
 2026-W05,Bayern,09,12,31632
 2026-W05,Saarland,10,4,2359
-2026-W05,Berlin,11,3,6460
+2026-W05,Berlin,11,3,6461
 2026-W05,Brandenburg,12,7,7223
 2026-W05,Mecklenburg-Vorpommern,13,1,3060
 2026-W05,Sachsen,14,8,17894
@@ -4937,7 +4937,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W06,Baden-Württemberg,08,7,21134
 2026-W06,Bayern,09,8,31640
 2026-W06,Saarland,10,2,2361
-2026-W06,Berlin,11,2,6462
+2026-W06,Berlin,11,2,6463
 2026-W06,Brandenburg,12,8,7231
 2026-W06,Mecklenburg-Vorpommern,13,2,3062
 2026-W06,Sachsen,14,13,17907
@@ -4953,7 +4953,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W07,Baden-Württemberg,08,1,21135
 2026-W07,Bayern,09,6,31646
 2026-W07,Saarland,10,2,2363
-2026-W07,Berlin,11,2,6464
+2026-W07,Berlin,11,2,6465
 2026-W07,Brandenburg,12,3,7234
 2026-W07,Mecklenburg-Vorpommern,13,1,3063
 2026-W07,Sachsen,14,10,17917
@@ -4969,7 +4969,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W08,Baden-Württemberg,08,12,21147
 2026-W08,Bayern,09,12,31658
 2026-W08,Saarland,10,2,2365
-2026-W08,Berlin,11,1,6465
+2026-W08,Berlin,11,1,6466
 2026-W08,Brandenburg,12,3,7237
 2026-W08,Mecklenburg-Vorpommern,13,0,3063
 2026-W08,Sachsen,14,6,17923
@@ -4985,7 +4985,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W09,Baden-Württemberg,08,3,21150
 2026-W09,Bayern,09,6,31664
 2026-W09,Saarland,10,0,2365
-2026-W09,Berlin,11,1,6466
+2026-W09,Berlin,11,1,6467
 2026-W09,Brandenburg,12,1,7238
 2026-W09,Mecklenburg-Vorpommern,13,1,3064
 2026-W09,Sachsen,14,5,17928
@@ -5001,7 +5001,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W10,Baden-Württemberg,08,2,21152
 2026-W10,Bayern,09,7,31671
 2026-W10,Saarland,10,1,2366
-2026-W10,Berlin,11,3,6469
+2026-W10,Berlin,11,3,6470
 2026-W10,Brandenburg,12,3,7241
 2026-W10,Mecklenburg-Vorpommern,13,1,3065
 2026-W10,Sachsen,14,2,17930
@@ -5017,7 +5017,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W11,Baden-Württemberg,08,4,21156
 2026-W11,Bayern,09,5,31676
 2026-W11,Saarland,10,0,2366
-2026-W11,Berlin,11,0,6469
+2026-W11,Berlin,11,0,6470
 2026-W11,Brandenburg,12,2,7243
 2026-W11,Mecklenburg-Vorpommern,13,0,3065
 2026-W11,Sachsen,14,2,17932
@@ -5033,7 +5033,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W12,Baden-Württemberg,08,2,21158
 2026-W12,Bayern,09,3,31679
 2026-W12,Saarland,10,0,2366
-2026-W12,Berlin,11,2,6471
+2026-W12,Berlin,11,2,6472
 2026-W12,Brandenburg,12,1,7244
 2026-W12,Mecklenburg-Vorpommern,13,0,3065
 2026-W12,Sachsen,14,0,17932
@@ -5049,7 +5049,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W13,Baden-Württemberg,08,3,21161
 2026-W13,Bayern,09,1,31680
 2026-W13,Saarland,10,0,2366
-2026-W13,Berlin,11,0,6471
+2026-W13,Berlin,11,0,6472
 2026-W13,Brandenburg,12,0,7244
 2026-W13,Mecklenburg-Vorpommern,13,0,3065
 2026-W13,Sachsen,14,1,17933
@@ -5065,7 +5065,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W14,Baden-Württemberg,08,3,21164
 2026-W14,Bayern,09,1,31681
 2026-W14,Saarland,10,0,2366
-2026-W14,Berlin,11,0,6471
+2026-W14,Berlin,11,0,6472
 2026-W14,Brandenburg,12,0,7244
 2026-W14,Mecklenburg-Vorpommern,13,4,3069
 2026-W14,Sachsen,14,1,17934
@@ -5081,7 +5081,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W15,Baden-Württemberg,08,0,21164
 2026-W15,Bayern,09,1,31682
 2026-W15,Saarland,10,0,2366
-2026-W15,Berlin,11,1,6472
+2026-W15,Berlin,11,1,6473
 2026-W15,Brandenburg,12,0,7244
 2026-W15,Mecklenburg-Vorpommern,13,0,3069
 2026-W15,Sachsen,14,1,17935
@@ -5097,7 +5097,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W16,Baden-Württemberg,08,3,21167
 2026-W16,Bayern,09,0,31682
 2026-W16,Saarland,10,0,2366
-2026-W16,Berlin,11,0,6472
+2026-W16,Berlin,11,0,6473
 2026-W16,Brandenburg,12,0,7244
 2026-W16,Mecklenburg-Vorpommern,13,0,3069
 2026-W16,Sachsen,14,1,17936
@@ -5113,7 +5113,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W17,Baden-Württemberg,08,0,21167
 2026-W17,Bayern,09,0,31682
 2026-W17,Saarland,10,0,2366
-2026-W17,Berlin,11,0,6472
+2026-W17,Berlin,11,0,6473
 2026-W17,Brandenburg,12,0,7244
 2026-W17,Mecklenburg-Vorpommern,13,0,3069
 2026-W17,Sachsen,14,0,17936
@@ -5129,7 +5129,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W18,Baden-Württemberg,08,0,21167
 2026-W18,Bayern,09,1,31683
 2026-W18,Saarland,10,0,2366
-2026-W18,Berlin,11,2,6474
+2026-W18,Berlin,11,2,6475
 2026-W18,Brandenburg,12,0,7244
 2026-W18,Mecklenburg-Vorpommern,13,0,3069
 2026-W18,Sachsen,14,0,17936
@@ -5145,7 +5145,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W19,Baden-Württemberg,08,2,21169
 2026-W19,Bayern,09,0,31683
 2026-W19,Saarland,10,0,2366
-2026-W19,Berlin,11,0,6474
+2026-W19,Berlin,11,0,6475
 2026-W19,Brandenburg,12,0,7244
 2026-W19,Mecklenburg-Vorpommern,13,0,3069
 2026-W19,Sachsen,14,0,17936
@@ -5161,7 +5161,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W20,Baden-Württemberg,08,0,21169
 2026-W20,Bayern,09,0,31683
 2026-W20,Saarland,10,0,2366
-2026-W20,Berlin,11,0,6474
+2026-W20,Berlin,11,0,6475
 2026-W20,Brandenburg,12,1,7245
 2026-W20,Mecklenburg-Vorpommern,13,0,3069
 2026-W20,Sachsen,14,0,17936
@@ -5177,7 +5177,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W21,Baden-Württemberg,08,0,21169
 2026-W21,Bayern,09,0,31683
 2026-W21,Saarland,10,0,2366
-2026-W21,Berlin,11,0,6474
+2026-W21,Berlin,11,0,6475
 2026-W21,Brandenburg,12,1,7246
 2026-W21,Mecklenburg-Vorpommern,13,0,3069
 2026-W21,Sachsen,14,0,17936
@@ -5193,7 +5193,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W22,Baden-Württemberg,08,1,21170
 2026-W22,Bayern,09,0,31683
 2026-W22,Saarland,10,0,2366
-2026-W22,Berlin,11,0,6474
+2026-W22,Berlin,11,0,6475
 2026-W22,Brandenburg,12,0,7246
 2026-W22,Mecklenburg-Vorpommern,13,0,3069
 2026-W22,Sachsen,14,0,17936
@@ -5209,7 +5209,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W23,Baden-Württemberg,08,0,21170
 2026-W23,Bayern,09,0,31683
 2026-W23,Saarland,10,0,2366
-2026-W23,Berlin,11,0,6474
+2026-W23,Berlin,11,0,6475
 2026-W23,Brandenburg,12,0,7246
 2026-W23,Mecklenburg-Vorpommern,13,0,3069
 2026-W23,Sachsen,14,0,17936
@@ -5225,7 +5225,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W24,Baden-Württemberg,08,1,21171
 2026-W24,Bayern,09,0,31683
 2026-W24,Saarland,10,0,2366
-2026-W24,Berlin,11,0,6474
+2026-W24,Berlin,11,0,6475
 2026-W24,Brandenburg,12,0,7246
 2026-W24,Mecklenburg-Vorpommern,13,0,3069
 2026-W24,Sachsen,14,0,17936
@@ -5241,7 +5241,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W25,Baden-Württemberg,08,0,21171
 2026-W25,Bayern,09,0,31683
 2026-W25,Saarland,10,0,2366
-2026-W25,Berlin,11,0,6474
+2026-W25,Berlin,11,0,6475
 2026-W25,Brandenburg,12,0,7246
 2026-W25,Mecklenburg-Vorpommern,13,0,3069
 2026-W25,Sachsen,14,1,17937
@@ -5257,7 +5257,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W26,Baden-Württemberg,08,0,21171
 2026-W26,Bayern,09,0,31683
 2026-W26,Saarland,10,0,2366
-2026-W26,Berlin,11,0,6474
+2026-W26,Berlin,11,0,6475
 2026-W26,Brandenburg,12,0,7246
 2026-W26,Mecklenburg-Vorpommern,13,0,3069
 2026-W26,Sachsen,14,1,17938
@@ -5273,7 +5273,7 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W27,Baden-Württemberg,08,0,21171
 2026-W27,Bayern,09,4,31687
 2026-W27,Saarland,10,0,2366
-2026-W27,Berlin,11,0,6474
+2026-W27,Berlin,11,0,6475
 2026-W27,Brandenburg,12,1,7247
 2026-W27,Mecklenburg-Vorpommern,13,0,3069
 2026-W27,Sachsen,14,1,17939
@@ -5289,9 +5289,25 @@ Datum,Region_Name,Region_Id,Todesfaelle,Todesfaelle_gesamt
 2026-W28,Baden-Württemberg,08,0,21171
 2026-W28,Bayern,09,0,31687
 2026-W28,Saarland,10,0,2366
-2026-W28,Berlin,11,0,6474
+2026-W28,Berlin,11,0,6475
 2026-W28,Brandenburg,12,0,7247
 2026-W28,Mecklenburg-Vorpommern,13,0,3069
 2026-W28,Sachsen,14,0,17939
 2026-W28,Sachsen-Anhalt,15,0,6919
 2026-W28,Thüringen,16,0,9173
+2026-W29,Schleswig-Holstein,01,0,4083
+2026-W29,Hamburg,02,0,4380
+2026-W29,Niedersachsen,03,2,16763
+2026-W29,Bremen,04,1,1109
+2026-W29,Nordrhein-Westfalen,05,1,35091
+2026-W29,Hessen,06,0,14381
+2026-W29,Rheinland-Pfalz,07,0,7852
+2026-W29,Baden-Württemberg,08,0,21171
+2026-W29,Bayern,09,0,31687
+2026-W29,Saarland,10,0,2366
+2026-W29,Berlin,11,0,6475
+2026-W29,Brandenburg,12,0,7247
+2026-W29,Mecklenburg-Vorpommern,13,0,3069
+2026-W29,Sachsen,14,0,17939
+2026-W29,Sachsen-Anhalt,15,0,6919
+2026-W29,Thüringen,16,0,9173
