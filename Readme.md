@@ -23,7 +23,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22742299](https://doi.org/10.5281/zenodo.22742299)
+Robert Koch-Institut. (2026). COVID-19-Todesfälle in Deutschland [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.22762800](https://doi.org/10.5281/zenodo.22762800)
 <!-- CITATION_END -->
 
 
@@ -130,8 +130,6 @@ Die Daten bilden für das Berichtsdatum (00:00 Uhr), alle über das Meldesystem 
 
 Die Datei [COVID-19-Todesfaelle_Deutschland.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Deutschland.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json) hinterlegt:
 
-> [tableschema_COVID-19-Todesfaelle_Deutschland.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Deutschland.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable                 | Typ     | Ausprägungen            | Beschreibung                                                         |
 |:-------------------------|:--------|:------------------------|:---------------------------------------------------------------------|
@@ -165,8 +163,6 @@ Die Daten nach Altersgruppen bilden den wöchentlichen Stand, Sonntag 24:00 Uhr,
 
 Die Datei [COVID-19-Todesfaelle_Altersgruppen.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Altersgruppen.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json) hinterlegt:
 
-> [tableschema_COVID-19-Todesfaelle_Altersgruppen.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Altersgruppen.json)
-
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable           | Typ     | Ausprägungen                                                        | Beschreibung                                                      |
 |:-------------------|:--------|:--------------------------------------------------------------------|:------------------------------------------------------------------|
@@ -198,8 +194,6 @@ Die Daten nach Bundesländern den wöchentlichen Stand Sonntag 24:00 Uhr, aller 
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "COVID-19-Todesfaelle_Bundeslaender", "lang": "de"} -->
 
 Die Datei [COVID-19-Todesfaelle_Bundeslaender.csv](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/COVID-19-Todesfaelle_Bundeslaender.csv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json) hinterlegt:
-
-> [tableschema_COVID-19-Todesfaelle_Bundeslaender.json](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/Metadaten/schemas/tableschema_COVID-19-Todesfaelle_Bundeslaender.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
 | Variable           | Typ     | Ausprägungen                                                                                       | Beschreibung                                                                                                                         |
@@ -279,5 +273,5 @@ Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [Git
 
 Der Datensatz "COVID-19-Todesfälle in Deutschland" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
 
-Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
+Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, dass jede Person das Recht hat, die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
