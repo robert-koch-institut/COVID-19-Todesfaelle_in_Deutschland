@@ -1,7 +1,7 @@
 {
   "title": "COVID-19-Todesfälle in Deutschland",
   "description": "<p>Im Datensatz \"COVID-19-Todesfälle in Deutschland\" des Robert Koch-Instituts werden täglich aktualisierte Informationen zu COVID-19-bedingten Todesfällen in Deutschland bereitgestellt. Die Datenerhebung erfolgt im Rahmen des Infektionsschutzgesetzes (IfSG). Der Datensatz umfasst aggregierte Todesfallzahlen nach Berichtsdatum, Altersgruppen und Bundesländern und wird ergänzt durch den Fall-Verstorbenen-Anteil. Der Datensatz ermöglicht fundierte Analysen zur Bewertung der Krankheitsschwere und Verbreitung von COVID-19 in Deutschland.</p>",
-  "upload_type": "dataset",
+  "upload_type": "other",
   "access_right": "open",
   "license": "CC-BY-4.0",
   "language": "deu",
@@ -50,13 +50,13 @@
     "Epidemiology"
   ],
   "subjects": [],
-  "publication_date": "2026-10-30",
-  "version": "2026-10-30",
+  "publication_date": "2026-10-31",
+  "version": "2026-10-31",
   "related_identifiers": [
     {
       "identifier": "https://github.com/robert-koch-institut/COVID-19-Todesfaelle_in_Deutschland",
       "relation": "isSupplementTo",
-      "resource_type": "dataset"
+      "resource_type": "other"
     },
     {
       "identifier": "https://robert-koch-institut.github.io/COVID-19-Todesfaelle_in_Deutschland",
@@ -66,8 +66,8 @@
   ],
   "dates": [
     {
-      "start": "2026-10-30T07:30:13+01:00",
-      "end": "2026-10-30T07:30:13+01:00",
+      "start": "2026-10-31T07:31:15+01:00",
+      "end": "2026-10-31T07:31:15+01:00",
       "type": "Created",
       "description": "Date when the published data was created"
     }
